@@ -1,0 +1,21 @@
+# torch/torchvision are installed separately with the CUDA index (see README)
+pytorch-lightning
+torchmetrics
+timm
+wandb
+huggingface_hub
+ultralytics
+pandas
+pyarrow
+duckdb
+pillow
+numpy
+scikit-learn
+prefect
+streamlit
+pydeck
+plotly
+requests
+httpx
+tqdm
+tabulate

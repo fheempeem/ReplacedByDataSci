@@ -1,0 +1,21 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+brief/
+# data is rebuilt by run_pipeline.py; only the small dashboard exports are versioned
+data/*
+!data/export/
+data/export/*
+!data/export/*.parquet
+!data/export/wetness_validation*.csv
+# not part of the project
+.claude/
+mattpocock-skills/
+labeling/
+CheatSheet_*
+Embedded_CheatSheet.pdf
+Image_Classification_Cheatsheet.pdf
+cheatsheet.html
+Summary_DataScience.md
+สรุป_DataScience_*
