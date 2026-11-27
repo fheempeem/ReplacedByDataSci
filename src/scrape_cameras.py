@@ -18,6 +18,7 @@ The raw HTML of every fetch is saved under data/raw_scrape/.
 from __future__ import annotations
 
 import csv
+import os
 import re
 import time
 from datetime import datetime
@@ -26,7 +27,7 @@ import pyarrow as pa
 import requests
 from pyducklake import DoubleType, Schema, StringType, TimestampTZType, optional, required
 
-from common import BKK, ROOT, open_catalog
+from common import RAW_DIR, BKK, ROOT, open_catalog
 
 BMA_URL = "http://www.bmatraffic.com/index.aspx"
 NOMINATIM_URL = "https://nominatim.openstreetmap.org/search"
@@ -111,6 +112,9 @@ def fetch_bma() -> tuple[dict[str, dict], dict]:
         stats["live_fetch_sizes"].append(len(live))
         rows.update(live)  # live wins over the reference
     stats["union_rows"] = len(rows)
+    mine = {d for d in os.listdir(RAW_DIR) if (RAW_DIR / d).is_dir()}  # only cameras that have images in this dataset are kept
+    rows = {k: v for k, v in rows.items() if k in mine}
+    stats["kept_rows"] = len(rows)
     if rows:
         save_reference(rows)
     return rows, stats
