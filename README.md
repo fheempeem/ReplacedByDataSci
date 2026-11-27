@@ -57,8 +57,8 @@ effects and bootstrap intervals, anomaly z-scores).
   precision 0.95, recall 0.77 at 0.15 versus 0.97 / 0.62 at 0.25 (`python src/round2_eval.py`). Mean vehicles per image rose from 7.1 to 9.0.
   Counts are still below the real number (about 19% missed); the old results are kept in `data/backup/`.
 * **Coordinates**: 74 of 100 cameras have a map position (66 BMA, 8 Nominatim). BMA's public list is unstable
-  (the same URL returned 372 rows, later 291), so every camera ever seen is kept in
-  `reference/bma_camera_coordinates.csv`, which is merged into each run. Keep that file in version control.
+  (the same URL returned 372 rows, later 291), so the 66 project cameras that BMA lists are kept in
+  `reference/bma_camera_coordinates.csv` (cameras with no images in this dataset were removed), which is merged into each run. Keep that file in version control.
 * **Rain**: Open-Meteo rain is a weak match for what the cameras show (daytime AUC 0.62 on 46 AI-labelled images), so the
   project also uses an image-based wetness score (CLIP, AUC 0.78, daytime only). Both gave no detectable effect on daytime
   traffic. See `docs/wetness_validation.md`; the labels were made by an AI model and should be repeated by a person.

@@ -4,8 +4,8 @@ Source 1 (preferred, coord_source='bma'): BMA traffic platform public page http:
   The page embeds one row per camera: [id, code+name, name_en, intersection, direction, lat, lng, <internal ip>, icon].
   The internal IP column is deliberately NOT stored.
   !! The list the page returns is NOT stable: the same URL gave 372 rows at one moment and 291 minutes later.
-  So we (a) fetch several times and union the rows, and (b) keep every camera ever seen in
-  reference/bma_camera_coordinates.csv (checked in), which is merged in first. A fresh clone therefore reproduces the
+  So we (a) fetch several times and union the rows, and (b) keep the coordinates of the project's 100 cameras in
+  reference/bma_camera_coordinates.csv (66 rows; other BMA cameras have no images here and were removed) (checked in), which is merged in first. A fresh clone therefore reproduces the
   same coordinates even when the live page happens to omit cameras.
 Source 2 (fallback, coord_source='nominatim'): OSM Nominatim geocoding of the camera name, only for cameras absent
   from every BMA source, and accepted only inside a Bangkok bounding box.
