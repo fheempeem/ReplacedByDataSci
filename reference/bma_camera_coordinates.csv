@@ -1,67 +1,478 @@
-﻿camera_id,code,name_en,name_th,direction,lat,lng
+camera_id,code,name_en,name_th,direction,lat,lng
+7,แยกสุทธิสาร ด้านถนนสุทธิสารวินิจฉัย,Central barrier near the police box on Vibhavadi Rangsit Road,รถมาจากแยกสะพานควาย,From Saphan Khwai Intersection,13.78927,100.56119
 11,ใกล้ซอยราชวิถี 6 ถนนราชวิถี,Traffic Lights near Soi Rajavithi  6 on Rajavithi  Road,รถมาจากอนุสาวรีย์ชัยสมรภูมิ มุ่งหน้าไปแยกใต้ด่วนดินแดง,From Victory Monument,13.76363,100.54106
+12,ใกล้ซอยราชวิถี 6 ถนนราชวิถี,Traffic Lights near Soi Rajavithi  6 on Rajavithi  Road,รถมาจากใต้ด่วนดินแดง มุ่งหน้าไปอนุสาวรีย์ชัยสมรภูมิ,From Din Daeng Intersection,13.76352,100.54129
 18,แยกสะพานแดง ด้านถนนทหาร,Saphan Daeng Intersection,รถมุ่งหน้าไปแยกเกียกกาย,Towards Keakkai Intersection,13.79339,100.52995
+19,แยกสะพานแดง ด้านถนนพระรามที่ 5,Saphan Daeng Intersection,รถมาจากถนนพระรามที่ 5,Towards Tao Pun Intersection,13.79339,100.52991
+20,แยกสะพานแดง ด้านถนนทหาร,Saphan Daeng Intersection,รถมาจากแยกเกียกกาย,From Keakkai Intersection,13.79343,100.52992
 36,แยกรัชดา-ราชพฤกษ์ ด้านถนนราชพฤกษ์,Near the police box and BRT Ratchapruek Station on Ratchapruek Road,รถมาจากแยกตากสิน,From Mahai Sawan Intersection,13.71497,100.47785
+39,สะพานลอยใกล้ซอยวงศ์สว่าง 21 ถนนวงศ์สว่าง,Footbridge near Soi Wong Sawang 21 on Wong Sawang Road,รถมาจากสะพานพระราม 7,From Rama 7 Bridge,13.82447,100.52438
+44,หน้าวัดชัยมงคล ถนนพระรามที่ 1,In front of Chai Mongkon Temple on Rama 1 Road,ท้ายรถมุ่งหน้าเจริญผล หน้ารถมุ่งหน้าพงษ์พระราม,From Cha Roen Phon Intersection,13.74762,100.52302
+45,หน้าวัดชัยมงคล ถนนพระรามที่ 1,In front of Chai Mongkon Temple on Rama 1 Road,ท้ายรถมุ่งหน้าแยกพงษ์พระราม หน้ารถเข้าเจริญผล,From Cha Roen Phon Intersection,13.74752,100.523
+51,สะพานลอยใกล้ห้องอาหารราชตฤณมัยสมาคม ถนนพิษณุโลก,Footbridge near Royal Turf Club of Thailand under the Royal Patronage on Phitsanulok Road,รถมาจากแยกยมราช,From Yommarat Intersection,13.76062,100.51684
 68,หน้าธนาคารกรุงเทพ สาขาวรจักร ถนนวรจักร,In front of bangkokbank Worachak Branch on Worachak Road,รถมาจากแยกแม้นศรี มุ่งหน้าไปแยกวรจักร,From Worachak Intersection,13.74928,100.50754
 70,หน้าธนาคารแห่งประเทศไทย ถนนสามเสน,"Near Thanachart Bank Public Company Limited,Branch Bang Khunphrom on Sam Sen Road",รถมาจากแยกเทเวศร์มุ่งหน้าไปแยกบางขุนพรหม,From Thewet Intersection,13.76855,100.50275
+75,แยกรัชดา-นราธิวาส ด้านถนนนราธิวาสราชนครินทร์,Under the overpass on Narathiwas Road,รถมาจากแยกด่วนสาธุประดิษฐ์,From Duan Sathu Pradit Intersection,13.70057,100.5413
+76,แยกรัชดา-นราธิวาส(ถนนนราธิวาส ใต้สะพานข้ามทางแยก),Under the overpass on Narathiwas Road,รถมาจากแยกพระรามที่ 3-นราธิวาส,From Rama 3-Naradhiwas Intersection,13.70017,100.54164
+78,แยกพระรามที่ 3-นราธิวาส ด้านถนนถนนนราธิวาสราชนครินทร์,Under the overpass on Rama3 Road,รถมาจากแยกรัชดา-นราธิวาส,From Ratchada-Naradhiwas Intersection,13.69581,100.54652
+82,สะพานลอยใกล้ซอยราชปรารภ 3 ถนนราชปรารภ,Footbridge near Soi Ratchaprarop 3 on Ratchaprarop Road,รถมาจากแยกหมอเหล็ง มุ่งหน้าไปแยกประตูน้ำ,From Si Ayutthaya Road,13.75352,100.54185
+87,แยกจันทน์-นราธิวาส(ถนนจันทน์ หน้า Besmile Dentral Clinic),In front of Besmile Dentral Clinic on Chan Road,รถมาจากแยกรัชดา-นราธิวาส,From Ratchada-Naradhiwas Intersection,13.70702,100.53749
 88,แยกจันทน์-สาธุประดิษฐ์ ด้านถนนจันทน์,Chan-Sathu Pradit Intersection Intersection,รถมุ่งหน้าไปแยกจันทน์-นราธิวาส,Towards Chan-Naradhiwas Intersection,13.70591,100.52866
+89,แยกจันทน์-สาธุประดิษฐ์ ด้านถนนจันทน์,Chan-Sathu Pradit Intersection Intersection,รถมุ่งหน้าไปแยกใต้ทางด่วนจันทน์,Towards Intersection under Chan Expy,13.70583,100.52883
+92,แยกใต้ทางด่วนจันทน์ ด้านถนนเจริญราษฎร์,Intersection under Chan Expy Near the police box on Charoen Rat Road,รถมาจากแยกสุรศักดิ์,From Surasak Intersection,13.70783,100.51879
+93,แยกใต้ทางด่วนจันทน์ ด้านถนนจันทน์,Intersection under Chan Expy Near the police box on Charoen Rat Road,รถมาจากแยกจันทน์-สาธุประดิษฐ์,From Chan-Sathu Pradit Intersection,13.70775,100.51893
+94,แยกใต้ทางด่วนจันทน์ ด้านถนนจันทน์,Intersection under Chan Expy Near Smile Focus Dental Clinic,รถมาจากแยกตรอกจันทน์,From Trok Chan Intersection,13.70779,100.51856
+95,แยกใต้ทางด่วนจันทน์ ด้านถนนเจริญราษฎร์,Intersection under Chan Expy Near Smile Focus Dental Clinic,รถมาจากแยกเจริญราษฎร์,From Charoen Rat Intersection,13.70773,100.51856
+96,แยกตรอกจันทน์ ด้านถนนเจริญกรุง,Trok Chan Intersection,รถมาจากแยกถนนตก,From Thanon Tok Intersection,13.70997,100.51116
+97,แยกตรอกจันทน์ ด้านถนนเจริญกรุง,Trok Chan Intersection,รถมาจากแยกสาทร-เจริญกรุง,From Sathon-Charoen Krung Intersection,13.71016,100.51144
+99,แยกตรอกจันทน์ ด้านถนนจันทน์,Trok Chan Intersection,รถมาจากแยกใต้ทางด่วนจันทน์,From Intersection under Chan Expy,13.70997,100.51147
+100,แยกถนนตก ด้านถนนเจริญกรุง,Near the police box on Rama 3 Road (outbound),รถมาจากแยกตรอกจันทน์,From Trok Chan Intersection,13.69726,100.4972
+101,แยกถนนตก ด้านถนนพระรามที่ 3,Near the police box on Rama 3 Road (outbound),รถมาจากสะพานกรุงเทพ,From Krung Thep Bridge,13.69738,100.49706
+103,แยกถนนตก(ถนนพระราม 3 ขาออก ข้างป้อมตำรวจ),Near the police box on Rama 3 Road (outbound),รถมาจากแยกเจริญราษฎร์,From Charoen Rat Intersection,13.69699,100.49701
+108,ปากซอยเจริญกรุง 72/1 ถนนเจริญกรุง,Entrance to Soi Charoen Krung 72/1 on Charoen Krung Road,รถมาจากแยกถนนตก มุ่งหน้าไปแยกตรอกจันทน์,From Thanon Tok Intersection,13.70704,100.50791
+109,ปากซอยเจริญกรุง 85 ถนนเจริญกรุง,Entrance to Soi Charoen Krung 89 on Charoen Krung Road,รถมาจากแยกตรอกจันทน์ มุ่งหน้าไปแยกถนนตก,From Trok Chan Intersection,13.7049,100.50568
+111,แยกเทียมร่วมมิตร ด้านถนนรัชดาภิเษก,Central barrier in front of Cyber World Tower on Thiam Ruam Mit Road,รถมาจากแยกห้วยขวาง,From Huai Khwang Intersection,13.76975,100.57295
 112,แยกเทียมร่วมมิตร(ถนนเทียมร่วมมิตร ข้างป้อมตำรวจ),near the police box on Thiam Ruam Mit Road,รถมุ่งหน้าไปแยกห้วยขวาง,From Thiam Ruam Mit Road,13.76947,100.5729
+113,แยกเทียมร่วมมิตร ด้านถนนรัชดาภิเษก,near the police box on Thiam Ruam Mit Road,รถมาจากแยกพระราม 9,From Rama 9 Intersection,13.76944,100.5729
+114,แยกห้วยขวาง ด้านถนนประชาราษฎร์บำเพ็ญ,Huai Khwang Intersection,รถมาจากถนนประชาราษฎร์บำเพ็ญ,From Pracha Rat Bamphen Road,13.77848,100.5738
+116,แยกห้วยขวาง,Huai Khwang Intersection,รถมาจากแยกเทียมร่วมมิตร,From Thiam Ruam Mit Intersection,13.7783,100.57353
 118,แยกรัชดา-สุทธิสาร ด้านถนนสุทธิสารวินิจฉัย,Ratchada-Sutthisan Intersection,รถมาจากแยกสุทธิสาร,From Sutthisan-Vibhavadi Rangsit Intersection,13.78979,100.57395
 119,แยกรัชดา-สุทธิสาร ด้านถนนรัชดาภิเษก,Ratchada-Sutthisan Intersection,รถมาจากแยกห้วยขวาง,From Huai Khwang Intersection,13.78971,100.5741
 120,แยกรัชดา-สุทธิสาร ด้านถนนสุทธิสารวินิจฉัย,Ratchada-Sutthisan Intersection,รถมาจากซอยลาดพร้าว 64,From Lat Phrao 64,13.78968,100.57441
+121,แยกรัชดา-สุทธิสาร ด้านถนนรัชดาภิเษก,Ratchada-Sutthisan Intersection,รถมาจากแยกรัชดา-ลาดพร้าว,From Ratchada-Lat Phrao Intersection,13.78978,100.57434
 123,แยกรัชดา-ลาดพร้าว ด้านถนนรัชดาภิเษก,Central barrier near the police box on Ratchadaphisek Road,รถมาจากแยกรัชดา-สุทธิสาร,From Ratchayothin Intersection,13.80536,100.575
 124,แยกรัชดา-ลาดพร้าว,Central barrier near the police box on Ratchadaphisek Road,ท้ายรถมุ่งหน้าแยกลาดพร้าว ท้ายรถมุ่งหน้าโชคชัย4,From Lat Phrao,13.80558,100.57475
 125,แยกรัชดา-ลาดพร้าว ด้านถนนลาดพร้าว,Central barrier near the police box on Ratchadaphisek Road,รถมาจากแยกรัชโยธิน,From Sutthisan Intersection,13.80547,100.5751
 126,TF2-JJ-S66-02 สะพานลอยซอยรัชดาภิเษก 30 ใกล้แยกรัชดา-ลาดพร้าว ถนนรัชดาภิเษก,Near Soi Lat Phrao 30 on Lat Phrao Road,รถมาจากแยกรัชโยธิน มุ่งหน้าไปแยกรัชดา-ลาดพร้าว,From Ratchayothin Intersection towards Ratchada-Lat Phrao Intersection,13.81003,100.57528
 127,สะพานลอยซอยรัชดาภิเษก 30 ใกล้แยกรัชดา-ลาดพร้าว ถนนรัชดาภิเษก,Near Soi Lat Phrao 30 on Lat Phrao Road,รถมาจากแยกรัชดา-ลาดพร้าว มุ่งหน้าไปแยกรัชโยธิน,From Ratchada-Lat Phrao Intersection towards Ratchayothin Intersection,13.81001,100.57511
+128,สะพานลอยใกล้สถานีรถไฟฟ้ากรุงธนบุรี ถนนกรุงธนบุรี,Footbridge near Krung Thon Buri BTS Station on Krung Thon Buri Road,รถมาจากสะพานตากสิน มุ่งหน้าไปแยกตากสิน,From Saphan Taksin towards Taksin Intersection,13.72077,100.50375
+129,สะพานลอยใกล้สถานีรถไฟฟ้ากรุงธนบุรี ถนนกรุงธนบุรี,Footbridge near Krung Thon Buri BTS Station on Krung Thon Buri Road,รถมาจากแยกตากสิน มุ่งหน้าไปสะพานตากสิน,From Taksin Intersection towards Saphan Taksin,13.72101,100.50363
+130,สะพานลอยใกล้สถานีรถไฟฟ้าวงเวียนใหญ่ ถนนกรุงธนบุรี,Footbridge near Wongwian Yai BTS Station on Krung Thon Buri Road,รถมาจากสะพานตากสิน มุ่งหน้าไปแยกตากสิน,From Saphan Taksin  towards Taksin Intersection,13.72116,100.49695
+131,สะพานลอยใกล้สถานีรถไฟฟ้าวงเวียนใหญ่ ถนนกรุงธนบุรี,Footbridge near Wongwian Yai BTS Station on Krung Thon Buri Road,รถมาจากแยกตากสิน มุ่งหน้าไปสะพานตากสิน,From Taksin Intersection towards Saphan Taksin,13.71979,100.49501
+132,สะพานลอยใกล้บริษัทการบินไทย จำกัด(มหาชน) ปากซอยวิภาวดีรังสิต 20 ถนนวิภาวดีรังสิต,Footbridge near Thai Airways International Public Company Limited Entrance Soi Vibhavadi-Rangsit,รถมาจากแยกสุทธิสาร มุ่งหน้าไปแยกลาดพร้าว,From Sutthisan Intersection towards Lat Phrao Intersection,13.80306,100.56021
+133,สะพานลอยใกล้บริษัทการบินไทย จำกัด(มหาชน) ปากซอยวิภาวดีรังสิต 20 ถนนวิภาวดีรังสิต,Footbridge near Thai Airways International Public Company Limited Entrance Soi Vibhavadi-Rangsit,รถมาจากแยกลาดพร้าว มุ่งหน้าไปแยกสุทธิสาร,From Lat Phrao Intersection towards Sutthisan Intersection,13.80319,100.56054
 135,สะพานลอยหน้าโตโยต้าชัวร์ ถนนรัชดาภิเษก,Footbridge in front of Toyota Sure on  Ratchadaphisek Road,หน้ารถมาจากแยกรัชโยธิน มุ่งหน้าไปแยกรัชดา-  ลาดพร้าว,From Ratchayothin Intersection towards Ratchada-Lat Phrao Intersection,13.82394,100.57316
 136,สะพานลอยใกล้บิ๊กซีเอ็กซ์ตร้า ปากซอยลาดพร้าว 7 ถนนลาดพร้าว,Footbridge near Big C Extra Entrance to Soi Lat Phrao 7 on Lat Phrao Road,รถมาจากแยกลาดพร้าว มุ่งหน้าไปแยกรัชดา-ลาดพร้าว,From Lat Phrao Intersection towards Ratchada-Lat Phrao Intersection,13.80954,100.56756
 137,สะพานลอยใกล้บิ๊กซีเอ็กซ์ตร้า ปากซอยลาดพร้าว 7 ถนนลาดพร้าว,Footbridge near Big C Extra Entrance to Soi Lat Phrao 7 on Lat Phrao Road,รถมาจากแยกรัชดา-ลาดพร้าว มุ่งหน้าไปแยกลาดพร้าว,From Ratchada-Lat Phrao Intersection towards Lat Phrao Intersection,13.8094,100.56754
+138,สะพานลอยหน้าโรงเรียนหอวัง ถนนพหลโยธิน,Footbridge in front of Horwang School on Phahon Yothin Road,รถมาจากแยกลาดพร้าว มุ่งหน้าไปแยกรัชโยธิน,From Lat Phrao Intersection  towards Ratchayothin Intersection,13.81817,100.56284
 139,สะพานลอยหน้าโรงเรียนหอวัง ถนนพหลโยธิน,Footbridge in front of Horwang School on Phahon Yothin Road,รถมาจากแยกรัชโยธิน มุ่งหน้าไปแยกลาดพร้าว,From Ratchayothin Intersection  towards Lat Phrao Intersection,13.81817,100.56304
+140,สะพานลอยตรงข้าม บริษัท ปตท. จำกัด(มหาชน) ใกล้ซอยวิภาวดีรังสิต 11 ถนนวิภาวดีรังสิต,Footbridge in front of PTT Public Company Limited near Soi Vibhavadi Rangsit 11 on Vibhavadi Rangsit Road,ท้ายรถมุ่งหน้าห้าแยกลาดพร้าว ขาเข้า,From Lat Phrao Intersection towards Ratchawipha Interchange,13.81825,100.55909
 141,สะพานลอยหน้าบริษัท ปตท. จำกัด(มหาชน) ใกล้ซอยวิภาวดีรังสิต 11 ถนนวิภาวดีรังสิต,Footbridge in front of PTT Public Company Limited near Soi Vibhavadi Rangsit 11 on Vibhavadi Rangsit Road,รถมาจากห้าแยกลาดพร้าว ขาออก มุ่งหน้าต่างระดับรัชวิภา,From Ratchawipha Interchange towards Lat Phrao Intersection,13.81825,100.55845
+147,สะพานลอยใกล้ มหาวิทยาลัยหอการค้าไทย ปากซอยวิภาวดีรังสิต 2 ถนนวิภาวดีรังสิต,UTCC footbridge near the entrance to Vibhavadi-Rangsit 2 on Vibhavadi-Rangsit Road,รถมาจากแยกใต้ด่วนดินแดง มุ่งหน้าไปแยกสุทธิสาร,From Sutthisan Intersection towards Intersection under Din Daeng Expy,13.77947,100.55642
+148,สะพานลอยใกล้ โรงผลิตน้ำสามเสน ถนนพระรามที่ 6,Footbridge near Samsean Waterwork Power Plant on Rama 6 Road,รถมาจากแยกตึกชัย มุ่งหน้าไปแยกโรงกรองน้ำ,From Tuek Chai Intersection towards Rong Krong Nam Intersection,13.77367,100.53052
+149,สะพานลอยใกล้ โรงผลิตน้ำสามเสน ถนนพระรามที่ 6,Footbridge near Samsean Waterwork Power Plant on Rama 6 Road,รถมาจากแยกโรงกรองน้ำ มุ่งหน้าไปแยกตึกชัย,From Rong Krong Nam Intersection towards Tuek Chai Intersection,13.77368,100.53056
+150,สะพานลอยใกล้ โรงเรียนสามเสนวิทยาลัย ถนนพระรามที่ 6,Footbridge near Samsenwittayalai School on Rama 6 Road,รถมาจากแยกอารีย์สัมพันธ์ มุ่งหน้าไปแยกประดิพัทธ์,From Ari Samphan Intersection towards Pradiphat Intersection,13.78381,100.5346
+151,สะพานลอยใกล้ โรงเรียนสามเสนวิทยาลัย ถนนพระรามที่ 6,Footbridge near Samsenwittayalai School on Rama 6 Road,รถมาจากแยกประดิพัทธ์ มุ่งหน้าไปแยกอารีย์สัมพันธ์,From Pradiphat Intersection towards Ari Samphan Intersection,13.7838,100.53462
+154,หน้ากองพันทหารปืนใหญ่ที่ 1 รักษาพระองค์ ถนนประดิพัทธ์,"Opposite Artillery Battalion 1st,King s(Royal)Guard on Pradiphat Road",รถมาจากแยกสะพานแดง มุ่งหน้าไปแยกเทอดดำริ,From Saphan Daeng Bridge Intersection towards Pradiphat Intersection,13.79282,100.5336
 158,สะพานลอยใกล้ซอยเจริญนคร 46,Footbridge near Soi Charoen Nakhon 46 on Charoen Nakhon Road,ถนนเจริญนคร ขาเข้า,From Charoen Nakhon Tai Intersection towards Buk Ka Lo Intersection,13.70981,100.49658
+168,สะพานลอยหน้าวัดเสาหิน ใกล้ซอยวงศ์สว่าง 3 ถนนวงศ์สว่าง,Footbridge in front of Wat Sao  Hin  Near Soi Wong Sawang 3 on Wong Sawang Road,รถมาจากแยกวงศ์สว่าง มุ่งหน้าไปสะพานพระราม 7,From Wongsawang Intersection towards Rama 7 Bridge,13.81861,100.5179
 169,สะพานลอยหน้าวัดเสาหิน ใกล้ซอยวงศ์สว่าง 3 ถนนวงศ์สว่าง,Footbridge in front of Wat Sao  Hin  Near Soi Wong Sawang 3 on Wong Sawang Road,รถมาจากสะพานพระราม 7 มุ่งหน้าไปแยกวงศ์สว่าง,From Rama7 Bridge towards Wongsawang Intersection,13.81863,100.51776
 170,สะพานลอยใกล้โรงพยาบาลวุฒิสมเด็จย่า ถนนพหลโยธิน,Footbridge near  Nawati Somdet Ya Hospital on Phahon Yothin Road,รถมาจากอนุสาวรีย์ชัยสมรภูมิ มุ่งหน้าไปแยกสะพานควาย,From Victory Monument towards Saphan Khwai Intersection,13.78402,100.54611
+171,สะพานลอยใกล้โรงพยาบาลวุฒิสมเด็จย่า ถนนพหลโยธิน,Footbridge near  Nawati Somdet Ya Hospital on Phahon Yothin Road,รถมาจากแยกสะพานควาย มุ่งหน้าไปอนุสาวรีย์ชัยสมรภูมิ,From Saphan Khwai Intersection towards Victory Monument,13.78407,100.5463
+172,สะพานลอยใกล้ซอยพหลโยธิน 15 ถนนพหลโยธิน,Footbridge near Soi Phahon Yothin 15 on Phahon Yothin Road,รถมาจากแยกสะพานควาย มุ่งหน้าไปแยกกำแพงเพชร,From Saphan Khwai Intersection towards Kamphaeng Phet Intersection,13.79532,100.5502
+173,สะพานลอยใกล้ซอยพหลโยธิน 15 ถนนพหลโยธิน,Footbridge near Soi Phahon Yothin 15 on Phahon Yothin Road,รถมาจากแยกกำแพงเพชร มุ่งหน้าไปแยกสะพานควาย,From Kamphaeng Phet Intersection towards Saphan Khwai Intersection,13.79539,100.55039
 176,สะพานลอยหน้าสวนจตุจักร ถนนพหลโยธิน,Footbridge in front of Chatuchak Park on Phahon Yothin Road,รถมาจากแยกลาดพร้าว มุ่งหน้าไปแยกกำแพงเพชร,From Lat Phrao Intersection towards Kamphaeng Phet Intersection,13.80161,100.55333
 177,สะพานลอยหน้าสวนจตุจักร ถนนพหลโยธิน,Footbridge in front of Chatuchak Park on Phahon Yothin Road,รถมาจากกำแพงเพชร มุ่งหน้าไปแยกลาดพร้าว,From Kamphaeng Phet Intersection towards Lat Phrao Intersection,13.80162,100.553
+180,สะพานลอยใกล้ซอยนราธิวาสราชนครินทร์ 24 ถนนนราธิวาสราชนครินทร์,Footbridge near Soi Narathiwas 24 on Narathiwas Road,รถมาจากแยกจันทน์-นราธิวาส มุ่งหน้าไปแยกรัชดา-นราธิวาส,From Chan-Naradhiwas Intersection towards Ratchada-Naradhiwas Intersection,13.70236,100.54051
+181,สะพานลอยใกล้ซอยนราธิวาสราชนครินทร์ 24 ถนนนราธิวาสราชนครินทร์,Footbridge near Soi Narathiwas 24 on Narathiwas Road,รถมาจากแยกรัชดา-นราธิวาส มุ่งหน้าไปแยกจันทน์-นราธิวาส,From Ratchada-Naradhiwas Intersection towards Chan-Naradhiwas Intersection,13.70212,100.54031
+182,สะพานลอยใกล้ซอยนราธิวาสราชนครินทร์ 26 ถนนนราธิวาสราชนครินทร์,Footbridge near Rama 3 Animal Hospital on Narathiwas Road,รถมาจากแยกพระรามที่ 3-นราธิวาส มุ่งหน้าไปแยกรัชดา-นราธิวาส,From Rama 3-Naradhiwas Intersection towards Ratchada-Naradhiwas Intersection,13.69905,100.54249
+184,ใกล้สะพานลอยสถานี BRT พระราม 3 ถนนนราธิวาสราชนครินทร์,Near the skybridge of Rama 3 BRT Station on Narathiwas Road,รถมาจากแยกพระรามที่ 3-นราธิวาส มุ่งหน้าไปแยกรัชดา-นราธิวาส,From Rama3-Naradhiwas Intersection towards Ratchada-Naradhiwas Intersection,13.69619,100.5453
+185,สะพานลอยสถานี BRT พระราม 3 ถนนนราธิวาสราชนครินทร์,Near the skybridge of Rama 3 BRT Station on Narathiwas Road,รถมาจากแยกรัชดา-นราธิวาส มุ่งหน้าไปแยกพระรามที่ 3-นราธิวาส,From Ratchada-Naradhiwas Intersection towards Rama3-Naradhiwas Intersection,13.69656,100.54538
 186,โครงสร้างป้ายบอกทางขึ้นสะพานพระราม 3 ถนนรัชดาภิเษก,Directional sign to Rama 3 Bridge on Ratchadaphisek Road,รถมาจากแยกรัชดา-นราธิวาส มุ่งหน้าไปแยกด่วนสาธุประดิษฐ์,From Ratchada-Naradhiwas Intersection towards Sathu Pradit Intersection,13.69827,100.54035
 188,สะพานลอยใกล้ซอยพระรามที่ 3 ซอย 68 ถนนพระรามที่ 3,Footbridge near Soi Rama 3 Soi68 on Rama 3 Road,รถมาจากแยก ณ ระนอง มุ่งหน้าไปแยกนางลิ้นจี่,From Na Ranong Intersection towards Nang Linchi Intersection,13.7031,100.54591
+189,สะพานลอยใกล้ซอยพระรามที่ 3 ซอย 68 ถนนพระรามที่ 3,Footbridge near Soi Rama 3 Soi68 on Rama 3 Road,รถมาจากแยกนางลิ้นจี่ มุ่งหน้าไปแยก ณ ระนอง,From Nang Linchi Intersection towards Na Ranong Intersection,13.70302,100.54573
+191,สะพานลอยใกล้ซอยนราธิวาส 9 ถนนนราธิวาสราชนครินทร์,Footbridge near Soi Narathiwas 9 on Narathiwas Road,รถมาจากแยกจันทน์-นราธิวาส มุ่งหน้าไปแยกสาทร-นราธิวาส,From Chan-Naradhiwas Intersection towards Sathon-Naradhiwas Intersection,13.71799,100.53205
+195,สะพานลอยใกล้ปากซอยคอนแวนต์ ถนนสาทรใต้,Footbridge near Entrance to Soi Convent on  South Sathorn Road,รถมาจากแยกวิทยุ มุ่งหน้าไปแยกสาทร-นราธิวาส,From Witthayu Intersection towards Sathon-Naradhiwas Intersection,13.72348,100.53611
+198,ใกล้ซอยจันทน์ 15/1 ถนนจันทน์,Near Soi Chan 15/1 on Chan Road,รถมาจากแยกตรอกจันทน์,From Ruam Chit Intersection towards Chan-Naradhiwas Intersection,13.70542,100.53364
+199,ใกล้ซอยจันทน์ 15/1 ถนนจันทน์,Near Soi Chan 15/1 on Chan Road,รถมาจากแยกจันทน์-นราธิวาส มุ่งหน้าไปแยกตรอกจันทน์,From Chan-Naradhiwas Intersection towards Ruam Chit Intersection,13.70541,100.53366
+200,ใกล้ซอยจันทน์ 35 ถนนจันทน์,Near Soi Chan 35 on Chan Road,รถมุ่งหน้าไปแยกใต้ทางด่วนจันทน์,From Chan-Sathu Pradit Intersection Intersection towards Intersection under Chan Expy,13.70697,100.52341
+202,ใกล้ซอยเจริญกรุง 61 ถนนเจริญกรุง,Near Soi Charoen Krung 31 on Charoen Krung Road,รถมาจากแยกตรอกจันทน์ มุ่งหน้าไปแยกสาทร-เจริญกรุง,From Tok Chan Intersection towards Sathon-Charoen Krung Intersection,13.71455,100.5134
+203,ใกล้ซอยเจริญกรุง 61 ถนนเจริญกรุง,Near Soi Charoen Krung 31 on Charoen Krung Road,รถมาจากแยกสาทร-เจริญกรุง มุ่งหน้าไปแยกตรอกจันทน์,From Sathon-Charoen Krung Intersection towards Ruam Chit Intersection,13.71452,100.51337
+206,สะพานลอยใกล้ซอยนราธิวาสราชนครินทร์ 20 ถนนนราธิวาสราชนครินทร์,Footbridge near Soi Narathiwas 20 on Narathiwas Road,รถมาจากแยกรัชดา-นราธิวาส มุ่งหน้าไปแยกจันทน์-นราธิวาส,From Ratchada-Naradhiwas Intersection towards Chan-Naradhiwas Intersection,13.70545,100.53835
+207,สะพานลอยใกล้ซอยนราธิวาสราชนครินทร์ 20 ถนนนราธิวาสราชนครินทร์,Footbridge near Soi Narathiwas 20 on Narathiwas Road,รถมาจากแยกจันทน์-นราธิวาส มุ่งหน้าไปแยกรัชดา-นราธิวาส,From Chan-Naradhiwas Intersection towards Ratchada-Naradhiwas Intersection,13.70572,100.53861
+208,ใกล้ซอยจันทน์ 55 ถนนจันทน์,Near Soi Chan 55 on Chan Road,รถมาจากแยกใต้ทางด่วนจันทน์มุ่งหน้าไปแยกตรอกจันทน์,From Charoen Krung,13.70884,100.51455
+209,ใกล้ซอยจันทน์ 55 ถนนจันทน์,Near Soi Chan 55 on Chan Road,รถมาจากแยกตรอกจันทน์ มุ่งหน้าไปแยกใต้ทางด่วนจันทน์,From Khlong Toei,13.7089,100.51457
 211,สะพานลอยใกล้ซอยรัชดาภิเษก 3 ถนนรัชดาภิเษก,Footbridge near Soi Ratchadaphisek 3 on Ratchadaphisek Road,รถมาจากแยกพระราม 9 มุ่งหน้าไปแยกเทียมร่วมมิตร,From Rama 9 Intersection towards Thiam Ruam Mit Intersection,13.76174,100.56672
+212,สะพานลอยใกล้บิ๊กซีรัชดา ถนนรัชดาภิเษก,Footbridge near Big C Ratchadaphisek on Ratchadaphisek Road,รถมาจากแยกเทียมร่วมมิตร มุ่งหน้าไปแยกพระราม 9,From Thiam Ruam Mit Intersection towards Rama 9 Intersection,13.76772,100.57165
+214,สะพานลอยใกล้ซอยรัชดาภิเษก 7 ถนนรัชดาภิเษก,Footbridge near Soi Ratchadaphisek 7 on Ratchadaphisek Road,รถมาจากแยกห้วยขวาง มุ่งหน้าไปแยกเทียมร่วมมิตร,From Huai Khwang Intersection towards Thiam Ruam Mit Intersection,13.77281,100.57348
 215,สะพานลอยใกล้ซอยรัชดาภิเษก 7 ถนนรัชดาภิเษก,Footbridge near Soi Ratchadaphisek 7 on Ratchadaphisek Road,รถมาจากแยกเทียมร่วมมิตร มุ่งหน้าไปแยกห้วยขวาง,From Thiam Ruam Mit Intersection towards Huai Khwang Intersection,13.77275,100.57328
+216,ใกล้อาคาร American Standard ถนนรัชดาภิเษก,Directional sign near American Standard Building on Ratchadaphisek Road,รถมาจากแยกรัชดา-ลาดพร้าว มุ่งหน้าไปแยกรัชดา-สุทธิสาร,From Ratchada-Lat Phrao Intersection towards Ratchada-Sutthisan Intersection,13.79352,100.57445
+217,ใกล้อาคาร American Standard ถนนรัชดาภิเษก,Directional sign near American Standard Building on Ratchadaphisek Road,รถมาจากแยกรัชดา-สุทธิสาร มุ่งหน้าไปแยกรัชดา-ลาดพร้าว,From Ratchada-Sutthisan Intersection towards Ratchada-Lat Phrao Intersection,13.79354,100.5743
+218,สะพานลอยใกล้ซอยรัชดาภิเษก 14 ถนนรัชดาภิเษก,Footbridge near Soi Ratchadaphisek 14 on Ratchadaphisek Road,รถมาจากแยกห้วยขวาง มุ่งหน้าไปแยกรัชดา-สุทธิสาร,From Huai Khwang Intersection towards Ratchada-Sutthisan Intersection,13.78186,100.57372
 219,สะพานลอยใกล้ซอยรัชดาภิเษก 14 ถนนรัชดาภิเษก,Footbridge near Soi Ratchadaphisek 14 on Ratchadaphisek Road,รถมาจากแยกรัชดา-สุทธิสาร มุ่งหน้าไปแยกห้วยขวาง,From Ratchada-Sutthisan Intersection towards Huai Khwang Intersection,13.78194,100.57389
+220,สะพานลอยหน้าอาคารเมืองไทย - ภัทร คอมเพล็กซ์ ถนนรัชดาภิเษก,Footbridge in front of Muangthai-Phatara Complex on Ratchadaphisek Road,รถมาจากแยกห้วยขวาง มุ่งหน้าไปแยกรัชดา-สุทธิสาร,From Huai Khwang Intersection towards Ratchada-Sutthisan Intersection,13.7875,100.57398
+222,สะพานลอยใกล้ซอยรัชดาภิเษก 22 ถนนรัชดาภิเษก,Footbridge near Soi Ratchadaphisek 22 on Ratchadaphisek Road,รถมาจากแยกรัชดา-สุทธิสาร มุ่งหน้าไปแยกรัชดา-ลาดพร้าว,From Ratchada-Sutthisan Intersection towards Ratchada-Lat Phrao Intersection,13.79703,100.57444
+223,สะพานลอยใกล้ซอยรัชดาภิเษก 22 ถนนรัชดาภิเษก,Footbridge near Soi Ratchadaphisek 22 on Ratchadaphisek Road,รถมาจากแยกรัชดา-ลาดพร้าว มุ่งหน้าไปแยกรัชดา-สุทธิสาร,From Ratchada-Lat Phrao Intersection Towards Ratchada-Sutthisan Intersection,13.79702,100.57464
 224,TF2-JJ-V81 สะพานลอยใกล้ศาลอาญา ถนนรัชดาภิเษก,Footbridge near The Criminal Court on  Ratchadaphisek Road,รถมาจากแยกรัชโยธิน มุ่งหน้าไปแยกรัชดา-ลาดพร้าว,From Ratchayothin Intersection towards Ratchada-Lat Phrao Intersection,13.81524,100.57553
 225,สะพานลอยใกล้ศาลอาญา ถนนรัชดาภิเษก,Footbridge near The Criminal Court on  Ratchadaphisek Road,รถมาจากแยกรัชดา-ลาดพร้าว มุ่งหน้าไปแยกรัชโยธิน,From Ratchada-Lat Phrao Intersection towards Ratchayothin Intersection,13.81523,100.57533
 228,หน้า รพ.กลาง ถนนหลวง,In front of Klang Hospital on Luang Road,รถมาจากแยกโรงพยาบาลกลาง มุ่งหน้าไปแยกวรจักร,From Klang Hospital  towards Worachak Intersection,13.74709,100.50944
+231,ประชาราษฎร์สาย1,-,ประชาราษฎร์สาย1 ซอย 3,-,13.80123,100.52134
+232,ประชาราษฎร์สาย1,-,ประชาราษฎร์สาย1 ซอย 3,-,13.80123,100.52131
 233,ตรงข้ามพระตำหนักจิตรลดารโหฐาน ถนนพระรามที่ 5,Opposite Chitralada Palace on Rama 5 Road,รถมาจากแยกราชวิถี มุ่งหน้าไปแยกวัดเบญจมบพิตร,From Ratchawithi Intersection towards Wat Benchamabophit Intersection,13.76967,100.51695
 239,สะพานลอยใกล้ รร.เตรียมอุดมศึกษา ถนนพญาไท,Footbridge near Triamudomsuksa School on Phayathai Road,รถมาจากแยกปทุมวัน มุ่งหน้าไปแยกสามย่าน,From Pathum Wan Intersection towards Samyan Intersection,13.73985,100.52987
+240,สะพานลอยใกล้ รร.เตรียมอุดมศึกษา ถนนพญาไท,Footbridge near Triamudomsuksa School on Phayathai Road,รถมาจากแยกสามย่าน มุ่งหน้าไปแยกปทุมวัน,From Samyan Intersection towards Pathum Wan Intersection,13.73986,100.52975
+244,TF2-PT-V41สะพานลอยหน้าอาคารอัมรินทร์พลาซ่า ถนนเพลินจิต,-,รถมาจากแยกราชประสงค์ มุ่งหน้าไปแยกเพลินจิต,-,13.74445,100.54124
+248,TF2-DS-V44 สะพานลอยหน้า มหาวิทยาลัยเทคโนโลยีราชมงคลพระนคร ปากซอยนครสวรรค์ 12 ถนนนครสวรรค์,Footbridge in front of  Rajamangala University of Technology Phra Nakhon Entrance to Soi Nakhon Sawan on Nakhon Sawan Road,รถมาจากแยกสะพานเทวกรรม มุ่งหน้าไปแยกนางเลิ้ง,From Thewakam Intersection towards Nang Loeng Intersection,13.76099,100.51437
+250,สะพานลอยใกล้ซอยเพชรบุรี 38 ถนนเพชรบุรี,Footbridge near Soi Phetchaburi 38 on Phetchaburi Road,รถมาจากแยกพร้อมพงษ์ มุ่งหน้าไปแยกอโศกเพชร,From Prompan Intersection towards Asok-Phetchaburi Intersection,13.74854,100.56598
+251,สะพานลอยใกล้วัดดิสหงษาราม ถนนเพชรบุรี,Footbridge near Dishongsaram Temple on Phetchaburi Road,รถมาจากแยกใต้ด่วนเพชรบรี มุ่งหน้าไปแยกมิตรสัมพันธ์,From Intersection under Phetchaburi Expy towards Mit Samphan Intersection,13.74985,100.55148
+252,สะพานลอยใกล้วัดดิสหงษาราม ถนนเพชรบุรี,Footbridge near Dishongsaram Temple on Phetchaburi Road,รถมาจากแยกมิตรสัมพันธ์ มุ่งหน้าไปแยกใต่ด่วนเพชรบุรี,From Mit Samphan Intersection towards  Intersection under Phetchaburi Expy,13.74981,100.55158
+253,สะพานลอยหน้า Big C ราชดำริ ถนนราชดำริ,Footbridge in front of Big C Ratchadamri,รถมาจากแยกราชประสงค์ มุ่งหน้าไปแยกประตูน้ำ,From Pratu Nam Intersection towards Ratchaprasong Intersection,13.74786,100.54078
+256,สะพานลอยใกล้ซอยเพชรบุรี 27 ถนนเพชรบุรี,Footbridge near Soi Phetchaburi 27 on Phetchaburi Road,หน้ารถมาจากแยกประตูน้ำ มุ่งหน้าไปแยกใต้ด่วนเพชรบุรี,From Pratu Nam Intersection towards Intersection under Phetchaburi Expy,13.74953,100.54403
+257,สะพานลอยใกล้ซอยเพชรบุรี 27 ถนนเพชรบุรี,Footbridge near Soi Phetchaburi 27 on Phetchaburi Road,ท้ายรถมุ่งหน้าใต้ด่วนเพชรบุรี หน้ารถมุ่งหน้าแยกประตูน้ำ,From Intersection under Phetchaburi Expy towards Pratu Nam Intersection,13.74949,100.54416
+258,สะพานลอยใกล้ซอยศรีอยุธยา 5 ถนนศรีอยุธยา,Footbridge near Soi Si Ayutthaya 5 on Si Ayutthaya Road,รถมาจากแยกศรีอยุธยา มุ่งหน้าไปแยกพญาไท,From Si Ayutthaya Intersection towards Payathai Intersection,13.75958,100.53083
+259,สะพานลอยใกล้ซอยศรีอยุธยา 5 ถนนศรีอยุธยา,Footbridge near Soi Si Ayutthaya 5 on Si Ayutthaya Road,รถมาจากแยกพญาไท มุ่งหน้าไปแยกศรีอยุธยา,From Payathai Intersection towards Si Ayutthaya Intersection,13.75941,100.53089
+276,อนุสาวรีย์ชัยสมรภูมิ,Footbridge near Soi Rang Nam on Phayathai Road,อนุสาวรีย์ชัยสมรภูมิ,From Ratchathewi Intersection,13.76523,100.53885
 277,อนุสาวรีย์ชัยสมรภูมิ,Footbridge near Soi Rang Nam on Phayathai Road,อนุสาวรีย์ชัยสมรภูมิ,From Victory Monument,13.76429,100.53867
+289,TF-HW-01-02-25 ทางคู่ขนานลอยฟ้า บรมราชชนนี(ขาออก),Sanghee Intersection,ช่วงแยกบรมราชชนนี,Towards Sisaothewet Intersection,13.77309,100.48194
 301,แยกอู่ทองนอก,Aoo Tong Nok Intersection,รถมุ่งหน้าแยกการเรือน,Towards Kanruean Intersection,13.77215,100.50944
+318,แยกอู่ทองใน,U Thong Nai Intersection,แยกอู่ทองใน,Towards Kanruen Intersection,13.77549,100.5148
+320,แยกพระรูป ร.5,Lan Phra Rup Intersection,รถมาจากแยกสี่เสาเทเวศน์,From Sisaothewet Intersection,13.76824,100.51149
 332,แยกราชวัตร,Rat Cha Wat Intersection,รถมุ่งหน้าแยกพิชัย,Towards Phi Chai Intersection,13.77951,100.52231
+335,แยกเขตดุสิต,Khatdusit Intersection,ท้ายรถมุ่งหน้าโรงพยาบาลวชิรพยาบาล,Left side towards Sawankhalok Intersection,13.77652,100.52068
+354,แยกนครไชยศรี,-,แยกนครชัยศรี,-,13.77627,100.52818
 363,แยกเขตดุสิต,Khatdusit Intersection,แยกเขตดุสิต,From Ratchawithi Intersection,13.77652,100.52067
+364,แยกเขตดุสิต,Khatdusit Intersection,แยกเขตดุสิต ด้านถนนสุโขทัย,From Rat Cha Wat Intersection,13.77652,100.52067
+394,ทางคู่ขนานลอยฟ้า บรมราชชนนี(ขาเข้า),Sao Chingcha Intersection,ช่วงทางแยกอรุณอมรินทร์,Bamrung Mueang Road from Sao Chingcha Intersection towards SiriPhong Road,13.76929,100.48537
 432,ทางแยกสามย่าน,Pathum Wan  Intersection,ทางแยกสามย่าน,From Ratchathewi Intersection,13.73258,100.52896
+439,แยกวิทยุ-เพชรบุรี,Chalerm Maha Nakhon Expy (Phetchaburi),หน้ารถเลี้ยวขวาใต้ด่วนเพชรบุรี,Samliam Din Daeng Intersection From Ratchaprarop Intersection,13.74973,100.54866
+479,ทางแยกใต้ด่วนดินแดง,Intersection under Din Daeng Expy,ทางแยกใต้ด่วนดินแดง,-,13.76382,100.54866
+481,ทางแยกใต้ด่วนดินแดง,Intersection under Din Daeng Expy,ทางแยกใต้ด่วนดินแดง,Intersection under Din Daeng Expy,13.76397,100.54817
+500,ทางแยกมิตรสัมพันธ์,Pra Tu Num Intersection,รถมุ่งหน้าไปแยกราชประสงค์,Towards Ratchaprasong Intersection,13.75001,100.54103
 529,จุดตัดถนนพุทธมณฑลสาย2 ฝั่งขาเข้า,Henri Dunant Intersection,ถนนพุทธมณฑลสาย 2  ขาเข้า,From Sala Daeng Intersection,13.78462,100.39461
+536,ทางแยกอังรีดูนังค์,Lang Suan Intersection,ทางแยกอังรีดูนังค์,0,13.73056,100.53391
 542,ทางแยกหลังสวน,Chit Lom Intersection,ทางแยกหลังสวน,From Phloen Chit Intersection,13.73428,100.54219
 546,แยกพาณิชยการ,Panichayakarn junction,แยกพาณิชยการ ด้านถนนพิษณุโลก,0,13.76319,100.51342
 556,แยกวชิระ,Vajira Intersection,แยกวชิระ,From Krung Thon Bridge (See Yellow),13.78123,100.50988
+569,แยกจ.ป.ร. 1,Jor Por Ror  Intersection,แยกจ.ป.ร. 1,Jor Por Ror  Intersection,13.75996,100.50763
 572,ทางคู่ขนานลอยฟ้า บรมราชชนนี(ขาเข้า),Jor Por Ror  Intersection,ช่วงทางขึ้นตลิ่งชัน,,13.78583,100.46178
+576,แยกบางลำพู,Bang Lamphu Intersection,แยกบางลำพู,0,13.76216,100.4983
 595,แยกบ้านแขก,Ban Khaek Juncion,แยกบ้านแขก,"IsaraPhap Road, From PhoSamTon Intersection",13.73075,100.49476
 603,BR-05-01 แยกสีลม-นราธิวาส,Silom-Naradhiwas Intersection,แยกสีลม-นราธิวาส,From Surasak Intersection,13.7262,100.52797
 604,แยกสีลม-นราธิวาส,Silom-Naradhiwas Intersection,ท้ายรถมุ่งหน้าแยกศาลาแดง,Towards Sathon-Naradhiwas Intersection,13.72629,100.52776
+613,ทางแยกสาทร-เจริญกรุง,Sathorn-Charoenkrung Intersection,ทางแยกสาทร-เจริญกรุง,-,13.71868,100.51515
+616,ทางแยกสาทร-เจริญกรุง,Sathorn-Charoenkrung Intersection,แยกสาทร-เจริญกรุง,-,13.71851,100.5151
 619,ทางแยกอังรีดูนังค์,Pathum Wan  Intersection,ทางแยกอังรีดูนังค์,0,13.73104,100.53356
+622,ทางแยกพงษ์พระราม,Phong Phra Ram Intersection,ทางแยกพงษ์พระราม,,13.748,100.52073
 630,แยกเกษะโกมล,Gesagomon Intersection,แยกเกษะโกมล ด้านถนนอำนวยสงคราม,Towards Saphan Daeng Intersection,13.78334,100.5244
+642,ทางแยกสามย่าน,Ratchaprasong Intersection,ทางแยกสามย่าน,Towards Pathum Wan Intersection,13.73272,100.52857
+648,แยกป้อมเผด็จ,Pom Pa Dad Junction,แยกป้อมเผด็จ,Pom Pa Dad Junction,13.75258,100.49343
+907,TF-DS-01 แยกพระรูป ร.5,connect BMAcctv,แยกพระรูป ร.5,connect BMAcctv,13.76793,100.51134
+908,TF-DS-02 แยกซังฮี้,connect BMAcctv,ท้ายรถมุ่งหน้าสะพานซังฮี้,connect BMAcctv,13.77916,100.5066
 913,TF-PP-01 แยกเอส เอ บี,connect BMAcctv,แยกเอส เอ บี,connect BMAcctv,13.74563,100.50571
 915,TF-KS-01 วงเวียนใหญ่,connect BMAcctv,วงเวียนใหญ่,connect BMAcctv,13.72639,100.49213
 938,TF-KP-03 รามคำแหง-พระราม 9,connect BMAcctv,รามคำแหง-พระราม 9,connect BMAcctv,13.74761,100.60591
 939,TF-KP-04 แยกมหาดไทย,connect BMAcctv,แยกมหาดไทย,connect BMAcctv,13.76061,100.62467
+942,TF-RW-05 แยกประตูน้ำ,-,แยกประตูน้ำ,-,13.75007,100.54111
+947,แยกตึกชัย,-,TF-RW-06 แยกตึกชัย,-,13.76945,100.52864
+953,TF-PT-06 แยกศาลาแดง,-,แยกศาลาแดง,-,13.72929,100.53673
+962,ทางแยกเพลินจิต,-,ทางแยกเพลินจิต,-,13.74342,100.5476
+996,สะพานลอยใกล้ซอยสาทร 12 ถนนสาทรใต้,-,รถมาจากแยกสาทร-นราธิวาส มุ่งหน้าไป แยกสาทร-สุรศักดิ์,-,13.72049,100.52599
+997,สะพานลอยใกล้ห้องอาหารราชตฤณมัยสมาคม ปากซอยพิษณุโลก 1 ถนนพิษณุโลก,Footbridge near Royal Turf Club of Thailand under the Royal Patronage on Phitsanulok Road,รถมาจากแยกนางเลิ้ง มุ่งหน้าไปแยกยมราช,From Nang Loeng Intersection,13.7606,100.51682
+999,ใกล้บีควิกพระราม 3 ถนนรัชดาภิเษก,-,รถมาจากแยกด่วนสาธุประดิษฐ์ มุ่งหน้าไปแยกรัชดา-นราธิวาส,-,13.69891,100.54092
 1028,แยกสะพานแดง,Red Bridge Intersection,แยกสะพานแดง,Red Bridge Intersection,13.79343,100.52996
+1037,สถานีรถไฟฟ้าช่องนนทรี ถนนนราธิวาสราชนครินทร์,Chong Non Si BTS Station  on Naradhiwas Road,รถมาจากแยกสีลม-นราธิวาส มุ่งหน้าไปแยกสาทร-นราธิวาส,From Silom-Naradhiwas Intersection towards Sathon-Naradhiwas Intersection,13.72356,100.52966
+1038,สถานีรถไฟฟ้าช่องนนทรี ถนนนราธิวาสราชนครินทร์,Chong Non Si BTS Station  on Naradhiwas Road,รถมาจากแยกสาทร-นราธิวาส มุ่งหน้าไปแยกสีลม-นราธิวาส,From Silom-Naradhiwas Intersection towards Sathon-Naradhiwas Intersection,13.72373,100.52937
 1039,ใกล้สะพานนริศดำรัส คลองมหานาค ถนนจักรพรรดิพงษ์,Near the police box on Rama 4 Road (Inbound),รถมุ่งหน้าไปแยกหลานหลวง,From Silom-Naradhiwas Intersection towards Sathon-Naradhiwas Intersection,13.75485,100.50949
+1043,แยกรัชโยธิน,-,รถมาจากแยกรัชวิภา,-,13.82693,100.568
+1051,แยกรัชดา-นราธิวาส(เกาะกลางถนนนราธิวาส ),-,รถมาจากแยกจันทน์-นราธิวาส,-,13.70097,100.54146
+1053,TF2-PY-S12-04 แยกประดิพัทธ์,-,ถนนประดิพัทธ์ ฝั่งป้อมตำรวจ,-,13.79192,100.53784
+1058,แยกรัชโยธิน (เกาะกลางถนนรัชดาภิเษก หน้า สน.พหลโยธิน),Ratchayothin Intersection,รถจากแยกรัชโยธินมุ่งหน้าไปแยกรัชดาลาดพร้าว,from Ratchayothin intersection,13.8271,100.56825
+1061,สะพานลอยใกล้ซอยนราธิวาสราชนครินทร์ 26 ถนนนราธิวาสราชนครินทร์,Footbrldge near Ram3,รถมาจากแยกรัชดา-นราธิวาส มุ่งหน้าไปแยกพระราม3,From Ratchada,13.69927,100.54275
 1070,สะพานลอยใกล้ซอยพหลโยธิน 18/2 ถนนพหลโย,Footbridge near Soi Phahon Yothin 18/2 on Phahon Yothin Road,รถมาจากกำแพงเพชร มุ่งหน้าไปแยกลาดพร้าว,From Kamphaeng Phet Intersection towards Lat Phrao Intersection,13.8085,100.55705
+1071,แยกกำแพงเพชร ด้านถนนพหลโยธิน,Central barrier near Soi Phahon Yothin 18  on Kamphaeng Phet Road,รถมาจากแยกลาดพร้าว,From Soi Phahon Yothin 18,13.79787,100.5512
+1072,ปากซอยจุฬาลงกรณ์ 26 ถนนบรรทัดทอง,-,รถมาจากแยกเจริญผล รถมุ่งหน้าไปแยกสะพานเหลือง,-,13.73915,100.52223
+1073,ปากซอยจุฬาลงกรณ์ 26 ถนนบรรทัดทอง,Entrance to Soi Chulalongkorn 26 on Banthat Thong Road,รถมาจากแยกสะพานเหลือง มุ่งหน้าไปแยกเจริญผล,From Saphan Lueang Intersection towards Cha Roen Phon Intersection,13.73904,100.52222
+1074,สะพานลอยหน้าสนามกีฬาศุภชลาศัย ถนนพระรามที่ 1,Footbridge in front of Suphachalasai Stadium on Rama 1 Road,รถมาจากแยกปทุมวัน มุ่งหน้าไปแยกเจริญผล,From Pathum Wan Intersection towards Cha Roen Phon Intersection,13.74687,100.52666
+1075,สะพานลอยหน้าสนามกีฬาศุภชลาศัย ถนนพระรามที่ 1,Footbridge in front of Suphachalasai Stadium on Rama 1 Road,รถมาจากแยกเจริญผล มุ่งหน้าไปแยกปทุมวัน,From Cha Roen Phon Intersection towards Pathum Wan Intersection,13.74699,100.52661
 1076,สะพานลอยใกล้ซอยเทอดไท 21 ถนนราชพฤกษ์,Footbridge near Soi Thoet Thai 21 on Ratchaphruek Road,รถมาจากแยกตากสิน มุ่งหน้าไปแยกรัชดา-ราชพฤกษ์,From Taksin Intersection towards Ratchada-Ratchaphruek Intersection,13.71838,100.48378
 1078,สะพานลอยหน้าวัดสุวรรณ ตรงข้ามซอยเจริญนคร 9 ถนนเจริญนคร,The flyover in front of Wat Suwan,รถมาจากแยกคลองสาน มุ่งหน้าไปแยกเจริญนคร,from Khlong San Intersection,13.72394,100.50904
+1081,แยกศรีย่าน,-,แยกศรีย่าน,-,13.78538,100.51188
+1082,แยกสะพานควาย ด้านถนนประดิพัทธ์,Near Sri Suparach Arcade Building  on Paholyothin Road (outbound),รถมาจากแยกประดิพัทธ์,From Kamphaeng Phet Intersection,13.78982,100.54807
+1083,แยกสะพานควาย ด้านถนนพหลโยธิน,Near Sri Suparach Arcade Building  on Paholyothin Road (outbound),รถมาจากแยกกำแพงเพชร,From Pradiphat Intersection,13.78985,100.54838
+1088,ปากซอยเจริญกรุง 76 ถนนเจริญกรุง,-,รถมาจากแยกตรอกจันทร์,-,13.70142,100.5018
+1092,แยกสุทธิสาร (เกาะกลางถนนวิภาวดีรังสิต ข้างป้อมตำรวจ),Sutthisarn Intersection,แยกสุทธิสาร รถมาจากดินแดง,Sutthisan Intersection,13.78926,100.56129
+1102,แยกรัชดา-ราชพฤกษ์ ด้านถนนราชพฤกษ์,-,รถมาจากแยกวุฒากาศ,-,13.71605,100.47879
 1103,แยกรัชดา-ราชพฤกษ์ ด้านถนนรัชดาภิเษก,17/5000 Ratchada-Ratchaphruek Intersection,รถมาจากแยกท่าพระ,The car comes from Tha Phra intersection.,13.71564,100.47907
+1107,แยกกำแพงเพชร (ถนนพหลโยธินขาออก ใกล้ตลาดนัดจตุจักร),-,รถมาจากแยกสะพานควาย,-,13.79795,100.55084
+1108,แยกกำแพงเพชร (ถนนพหลโยธินขาออก ใกล้ตลาดนัดจตุจักร),-,รถมาจากแยกอ.ต.ก,-,13.79801,100.55091
 1112,แยกสุทธิสาร(ถนนวิภาวดีรังสิต ขาเข้า),Sutthisan Intersection,รถมาจากแยกรัชดา - สุทธิสาร,from Ratchada-Sutthisan intersection.,13.78924,100.56173
+1120,แยกสะพานเหลือง ด้านถนนพระรามที่ 4,-,รถมาจากแยกสามย่าน,-,13.73587,100.52158
+1121,แยกสะพานเหลือง ด้านถนนพระรามที่ 4,-,รถมุ่งหน้าไปแยกหัวลำโพง,-,13.73579,100.52131
+1122,แยกสุทธิสาร ถนนวิภาวดีรังสิต ขาเข้า,-,รถมาจากดอนเมือง,-,13.78927,100.56183
+1124,สะพานลอยใกล้ห้องอาหารราชตฤณมัยสมาคม ถนนพิษณุโลก,-,รถมุ่งหน้าแยกนางเลิ้ง,-,13.76053,100.51674
+1127,สะพานลอยหน้า วชิรพยาบาล ถนนสามเสน,-,รถมาจากแยกแยกซังฮี้ มุ่งหน้าไปแยกเทเวศรนฤมิตร,-,13.77559,100.50708
+1131,แยกสะพานเหลือง ด้านถนนพระรามที่ 4,-,รถมาจากแยกมหานคร,-,13.73572,100.52136
 1132,สะพานลอยหน้าวัดสุวรรณ ตรงข้ามซอยเจริญนคร 9 ถนนเจริญนคร,The flyover in front of Wat Suwan,รถมาจากแยกเจริญนครใต้,from Charoen Nakhon South junction.,13.72395,100.50916
+1135,แยกจันทน์-นราธิวาส(เกาะกลางถนนนราธิวาส ข้างป้อมตำรวจ),-,รถมุ่งหน้าไปแยกพระราม 3,-,13.70728,100.53782
+1136,แยกจันทน์-สาธุประดิษฐ์ ด้านถนนสาธุประดิษฐ์,-,รถมุ่งหน้าไปแยกด่วนสาธุประดิษฐ์,-,13.70583,100.5287
+1143,สะพานลอยใกล้ซอยสาทร 12 ถนนสาทร,-,รถมาจากแยกสาทร-สุรศักดิ์ มุ่งหน้าไปแยกสาทร-นราธิวาส,-,13.72073,100.52608
+1157,ทางแยกประชาร่วมมิตร,-,ทางแยกประชาร่วมมิตร,-,13.76709,100.58646
+1159,ทางแยกผ่านฟ้า,-,ทางแยกผ่านฟ้า,-,13.75676,100.50648
+1161,ทางขึ้น ด่วนยกระดับฝั่งปิ่นเกล้า ขาออก,-,ทางขึ้น ด่วนยกระดับฝั่งปิ่นเกล้า ขาออก,-,13.76593,100.48764
+1162,TF-HW-01-02-12 ทางขึ้นปิ่นเกล้า ขาออก,-,ทางขึ้นปิ่นเกล้า ขาออก,-,13.76972,100.48478
+1168,หน้ากระทรวงวัฒนธรรม,-,หน้ากระทรวงวัฒนธรรม,-,13.78182,100.4739
+1169,หน้ากระทรวงวัฒนธรรม,-,หน้ากระทรวงวัฒนธรรม,-,13.78396,100.47186
+1170,หน้าห้างเซ็นทรัลปิ่นเกล้า,-,หน้าห้างเซ็นทรัลปิ่นเกล้า,-,13.77889,100.47659
+1172,TF-HW-01-02-32 ทางโค้งศิรินธร ขาเข้า,-,ทางโค้งศิรินธร ขาเข้า,-,13.78724,100.46839
+1174,ทางลงตลิ่งชันฝั่ง ขาเข้า,-,ทางลงตลิ่งชันฝั่ง ขาเข้า,-,13.7869,100.46587
+1178,ทางลงตลิ่งชันฝั่ง ขาเข้า,-,ทางลงตลิ่งชันฝั่ง ขาเข้า,-,13.7869,100.46591
+1182,ทางคู่ขนานลอยฟ้า บรมราชชนนี,Gesagomon Intersection,ช่วงต่างระดับถนนราชพฤกษ์,Towards Bang Krabue Intersection,13.7802,100.44292
 1188,จุดตัดถนนพุทธมณฑลสาย2 ฝั่งขาออก,Ratchathewi Intersection,จุดตัดถนนพุทธมณฑลสาย2 ฝั่งขาออก,Ratchathewi Intersection,13.78288,100.40926
+1189,จุดตัดถนนพุทธมณฑลสาย1,-,จุดตัดถนนพุทธมณฑลสาย1,-,13.78125,100.42654
+1191,จุดตัดถนนพุทธมณฑลสาย1 ฝั่งขาออก,-,จุดตัดถนนพุทธมณฑลสาย1 ฝั่งขาออก,-,13.78125,100.42654
+1192,จุดตัถนนพุทธมณฑลสาย1 ฝั่งขาเข้า,-,จุดตัถนนพุทธมณฑลสาย1 ฝั่งขาเข้า,-,13.78135,100.42654
+1200,แนวถนนรางน้ำ,-,แนวถนนรางน้ำ,-,13.76048,100.53857
+1204,ทางแยกราชเทวี,-,ทางแยกราชเทวี,-,13.75316,100.53151
+1209,อนุสาวรีย์ชัยสมรภูมิ,-,อนุสาวรีย์ชัยสมรภูมิ,-,13.7658,100.53888
+1221,แยกประชาสงเคราะห์,-,แยกประชาสงเคราะห์,-,13.76041,100.55483
+1222,แยกประชาสงเคราะห์,-,แยกประชาสงเคราะห์,-,13.76031,100.55485
+1223,แยกประชาสงเคราะห์,-,แยกประชาสงเคราะห์,-,13.76051,100.55512
+1224,แยกประชาสงเคราะห์,-,แยกประชาสงเคราะห์,-,13.76065,100.55496
+1225,แยกประชาสงเคราะห์,-,แยกประชาสงเคราะห์,-,13.76056,100.5551
+1226,แยกอุภัย,-,แยกอุภัย,-,13.77044,100.52589
+1228,แยกอุภัย,-,แยกอุภัย,-,13.77025,100.52632
+1230,แยกอุภัย,-,แยกอุภัย,-,13.77044,100.52612
+1231,แยกอุภัย,-,แยกอุภัย,-,13.77062,100.526
+1243,TF1-JJ-01 ปากทางลาดพร้าว ตัด ถ.วิภาวดีรังสิต,-,ปากทางลาดพร้าว ตัด ถ.วิภาวดีรังสิต,-,13.81323,100.55968
+1244,TF1-JJ-02 ถ.งามวงศ์วาน ตัด ถ.วิภาวดี,-,ท้ายรถมุ่งหน้าแยกเกษตร,-,13.84803,100.56093
+1255,ทางแยกประตูน้ำ,-,ทางแยกประตูน้ำ,-,13.75027,100.54106
+1259,ถนนสวนพลู สาทร3,-,ถนนสวนพลู สาทร3,-,13.72355,100.53641
+1264,แนวถนนโยธี,-,แนวถนนโยธี,-,13.76215,100.53572
+1265,แนวถนนโยธี,-,แนวถนนโยธี,-,13.76247,100.53514
+1273,ทางแยกหัวลำโพง,-,ทางแยกหัวลำโพง,-,13.73791,100.51662
+1282,TF1-HK-02 ถนนพระราม 9 ตัด ถนนตัดใหม่,-,หน้ารถมุ่งหน้าแยกรามคำแหง,-,13.74133,100.61593
+1283,TF1-HK-03 บริเวณหน้ากรมโยธาธิการและผังเมือง,-,บริเวณหน้ากรมโยธาธิการและผังเมือง,-,13.75523,100.57352
+1284,TF1-HK-04 ถนนเพชรบุรี ตัด ถนนเอกมัย (หน้า Food Land),-,ถนนเพชรบุรี ตัด ถนนเอกมัย (หน้า Food Land),-,13.74347,100.59081
+1286,TF1-BA-03 ถ.สุขาภิบาล 5 ตัด ซ.32 วัชรพล,-,ท้ายรถมุ่งหน้าถนนหทัยราษฎร์,-,13.8846,100.65362
+1287,TF1-LK-01 ถ.ฉลองกรุง ตัด มอเตอร์เวย์,-,หน้ารถมุ่งหน้าพระราม9 ท้ายรถมุ่งหน้าชลบุรี,-,13.73192,100.7843
+1297,TF1-NC-02	ถ.เชื่อมสัมพันธ์ ตัด ถ.สุวินทวงศ์,-,หน้ารถขาเข้ามุ่งหน้าแยกการไฟฟ้า-มีนบุรี,-,13.80679,100.83766
+1298,TF1-WL-01	แยกประชาอุทิศ-ประดิษฐ์มนูธรรม,-,หน้ารถมาจากลาดพร้าว มุ่งหน้าพระราม9-เอกมัย,-,13.76682,100.60231
+1299,TF1-WL-02	ถ.ลาดพร้าว ตัด ถ.ประดิษฐ์มนูธรรม,-,ท้ายรถมุ่งหน้าบางกะปิ หน้ารถมุ่งหน้าแยกลาดพร้าว,-,13.78641,100.60906
+1301,TF1-PW-01	ถ.สุขุมวิท 77 ตัด ถ.กาญจนาภิเษก (วงแหวนรอบนอก),-,ท้ายรถมุ่งหน้าแยกลาดกระบัง หน้างรถมุ่งหน้าสวนหลวง,-,13.72159,100.69956
+1304,TF1-RW-03	แนวถนนจตุรทิศ (2),-,ท้ายรถมุ่งหน้าแยก อ.ส.ม.ท.,-,13.75241,100.56944
+1305,TF1-HK-07 แนวถนนจตุรทิศ (3),-,ท้ายรถมุ่งหน้าแยกพระราม9 หน้ารถมุ่งหน้าศรีนครินทร์,-,13.75473,100.58351
+1314,TF1-SL-01	ป้อมตำรวจ แยกพัฒนะ ถนนพัฒนาการ,-,ท้ายรถมุ่งหน้าแยกพัฒนาการ หน้ารถมุ่งหน้าแยกคลองตัน,-,13.73662,100.61657
+1316,TF1-MB-01	บริเวณตลาดมีนบุรี,-,แยกเมืองมีน,-,13.81275,100.7185
+1319,TF1-LK-03	ถ.ลาดกระบัง (ทางเข้าสนามบินสุวรรณภูมิ) (ถ.ลาดกระบัง-ถ.สุวรรณภูมิ 4,-,ถ.ลาดกระบัง (ทางเข้าสนามบินสุวรรณภูมิ) (ถ.ลาดกระบัง-ถ.สุวรรณภูมิ 4,-,13.72166,100.77651
+1320,TF1-LK-04	ถ.ร่มเกล้า ตัด ถ.ลาดกระบัง แยกลาดกระบัง,-,ท้ายรถมุ่งหน้าต่างระดับร่มเกล้า,-,13.72248,100.74655
+1322,TF1-LK-06	ถ.ลาดกระบัง ตัด ถ.กิ่งแก้ว แยกกิ่งแก้ว,-,ถ.ลาดกระบัง ตัด ถ.กิ่งแก้ว แยกกิ่งแก้ว,-,13.72262,100.73957
+1323,TF1-LK-07	ถ.รามคำแหง ตัด ถ.มีนพัฒนา (แยกลาดบัวขาว),-,ถ.รามคำแหง ตัด ถ.มีนพัฒนา (แยกลาดบัวขาว),-,13.79977,100.71551
+1325,TF1-BN-02	ถ.ศรีนครินทร์ ตัด ถ.บางนา ตราด,-,หน้ารถมาจากแยกบางนา มุ่งหน้าต่างระดับวัดสลุด,-,13.6662,100.64433
+1326,TF1-BN-01	แยกแบริ่ง,-,ท้ายรถมุ่งหน้า เทพารักษ์,-,13.65882,100.60095
+1330,TF1-MB-04	ถ.เสรีไทย ตัด ถ.มีนพัฒนา (แยกบางชัน),-,ท้ายรถมุ่งหน้าบางกะปิ,-,13.80525,100.71225
+1332,แยกจ.ป.ร. 2,-,แยกจ.ป.ร. 2,-,13.75989,100.50775
+1333,TF1-BP-01	ถ.ศรีนครินทร์ ตัด ถ.กรุงเทพกรีทา (แยกกรุงเทพกรีฑา) หน้าไทยเพรซิเดนท์ฟูดส์,-,ท้ายรถมุ่งหน้าแยกลำสาลี,-,13.75243,100.6452
+1336,แยกสวนหลวง,-,ท้ายรถมุ่งหน้าแยกศรีอุดม,-,13.7126,100.64409
+1338,TF-PT-01 แยกราชประสงค์,-,แยกราชประสงค์,-,13.74441,100.53997
+1339,TF-PT-03 แยกพงษ์พระราม,-,แยกพงษ์พระราม,-,13.7479,100.52075
+1345,ทางลงตลิ่งชันฝั่ง ขาออก,-,ทางลงตลิ่งชันฝั่ง ขาออก,-,13.78657,100.46522
+1347,จุดตัดถนนราชพฤกษ์ ฝั่งขาออก,-,จุดตัดถนนราชพฤกษ์ ฝั่งขาออก,-,13.7801,100.44294
+1348,ทางขึ้นถนนกาญจนาภิเษก ฝั่งขาเข้า,-,ทางขึ้นถนนกาญจนาภิเษก ฝั่งขาเข้า,-,13.78174,100.42345
+1349,ทางขึ้นถนนกาญจนาภิเษก ฝั่งขาเข้า,-,ทางขึ้นถนนกาญจนาภิเษก ฝั่งขาเข้า,,13.78159,100.4239
+1356,ใกล้สะพานนริศดำรัส คลองมหานาค ถนนจักรพรรดิพงษ์,-,รถมาจากแยกแม้นศรี,-,13.75504,100.50945
+1358,ตรงข้ามบริษัท กันกุล เอ็นจิเนียริ่ง จำกัด,-,ตรงข้ามบริษัท กันกุล เอ็นจิเนียริ่ง จำกัด,-,13.78293,100.5161
+1359,แยกสะพานควาย ด้านถนนพหลโยธิน,Near traffic control box on Paholyothin  Road(Inbound),รถมาจากอนุสาวรีย์ชัยสมรภูมิ,From Victory Monument,13.78959,100.54816
+1360,แยกสะพานควาย,Near traffic control box on Paholyothin  Road(Inbound),รถมาจากแยกสุทธิสาร ถนนพหลโยธินขาเข้า,From Sutthisan Intersection,13.78967,100.54841
+1361,หน้าธนาคารแห่งประเทศไทย ถนนสามเสน,In front of The Bank of Thailand: BOT on Sam Sen Road,ด้านขวารถมาจากแยกบางขุนพรหมมุ่งหน้าไปแยกเทเวศร์,From Bangkhunprom Intersection,13.76854,100.50265
 1368,แยกพาณิชยการ,Lan Phra Rup Intersection,แยกพาณิชยการ ด้านถนนพระรามที่ 5,0,13.76317,100.51347
+1369,แยกยมราช,Yommarat Intersection,แยกยมราช ด้านถนนพิษณุโลก,-,13.75709,100.52063
+1380,TF1-LP-01	ถ.เกษตรนวมินทร์ ตัด ถ.มัยลาภ,-,ถ.เกษตรนวมินทร์ ตัด ถ.มัยลาภ,-,13.8328,100.61114
+1381,แนวถนนนครไชยศรี 2,-,แนวถนนนครไชยศรี 2,-,13.78157,100.51858
+1384,แยกบางกระบือ,-,แยกบางกระบือ,-,13.78937,100.51462
+1386,แยกซังฮี้,-,แยกซังฮี้,-,13.77836,100.50841
+1403,แยกมัฆวาน,-,แยกมัฆวาน,-,13.76349,100.50933
+1405,แยกมัฆวาน,-,แยกมัฆวาน,-,13.76342,100.50929
+1407,TF2-PT-V41สะพานลอยหน้าอาคารอัมรินทร์พลาซ่า ถนนเพลินจิต,-,รถมาจากแยกเพลินจิต มุ่งหน้าไปแยกราชประสงค์,-,13.74431,100.54134
 1408,แยกเทียมร่วมมิตร,Central barrier in front of Cyber World Tower on Thiam Ruam Mit Road,รถมุ่งไปหน้าไปเทียมร่วมมิตร,From Huai Khwang Intersection,13.76938,100.57331
+1421,แยกคอกวัว,-,แยกคอกวัว,-,13.75747,100.49886
+1422,แยกคอกวัว,-,แยกคอกวัว,-,13.75732,100.49894
+1423,แยกจ.ป.ร. 1,-,แยกจ.ป.ร. 1,-,13.75997,100.50763
+1426,หน้ากรมชลประทาน ถนนสามเสน,-,หน้ากรมชลประทาน ถนนสามเสน,-,13.7867,100.51268
+1427,หน้ากรมชลประทาน ถนนสามเสน,-,หน้ากรมชลประทาน ถนนสามเสน,-,13.78671,100.51272
+1428,ทางขึ้นถนนกาญจนาภิเษก,-,ทางขึ้นถนนกาญจนาภิเษก ฝั่งขาออก,-,13.78143,100.42338
+1429,เสาป้ายหน้าศรีย่านทันตแพทย์ เยื้องซอยศรีย่าน,-,เสาป้ายหน้าศรีย่านทันตแพทย์ เยื้องซอยศรีย่าน 2,-,13.78413,100.51402
+1430,สะพานลอยหน้า โรงเรียนเซนต์คาเบรียล  ถนนสามเสน,-,สะพานลอยหน้า โรงเรียนเซนต์คาเบรียล  ถนนสามเสน,-,13.77562,100.50722
+1431,ตรงข้าม มหาวิทยาลัยราชภัฎสวนสุนันทา,-,ตรงข้าม มหาวิทยาลัยราชภัฎสวนสุนันทา,-,13.77775,100.50986
+1432,เสาป้ายหน้าศรีย่านทันตแพทย์ เยื้องซอยศรีย่าน,-,เสาป้ายหน้าศรีย่านทันตแพทย์ เยื้องซอยศรีย่าน 2 ถนนนครไชยศรี,-,13.78409,100.51404
+1434,สะพานลอยใกล้ซอยรางน้ำ ถนนพญาไท,-,สะพานลอยใกล้ซอยรางน้ำ ถนนพญาไท,-,13.76172,100.53642
+1435,สะพานลอยใกล้ซอยรางน้ำ ถนนพญาไท,-,สะพานลอยใกล้ซอยรางน้ำ ถนนพญาไท,-,13.76167,100.53655
+1436,ใกล้ ธ.ทหารไทย สาขาสะพานเหลือง,-,ใกล้ ธ.ทหารไทย สาขาสะพานเหลือง,-,13.73679,100.51926
+1437,สะพานลอยหน้าโรงพยาบาลรามาธิบดี,-,สะพานลอยหน้าโรงพยาบาลรามาธิบดี,-,13.76675,100.52786
+1438,สะพานลอยหน้าโรงพยาบาลรามาธิบดี,-,สะพานลอยหน้าโรงพยาบาลรามาธิบดี,-,13.7664,100.5275
+1439,หน้าปากซอยแม้นศรี 2,-,หน้าปากซอยแม้นศรี 2,-,13.75118,100.51078
+1440,ปากซอยจุฬาลงกรณ์ 12,-,ปากซอยจุฬาลงกรณ์ 12,-,13.74396,100.52316
+1441,ปากซอยจุฬาลงกรณ์ 12,-,ปากซอยจุฬาลงกรณ์ 12,-,13.74397,100.52319
+1442,TF2-PT-V38-01 สะพานลอยหน้า Siam Discovery,-,หน้ารถมุ่งหน้าอังรีดูนังต์ ท้ายรถไปปทุมวัน,-,13.74606,100.53201
+1443,TF2-PT-V38-02 สะพานลอยหน้าสยามเซนเตอร์ ถนนพระรามที่ 1,-,หน้ารถมุ่งหน้าแยกปทุมวัน,-,13.74596,100.532
+1444,สะพานลอยหน้า Big C ราชดำริ,-,สะพานลอยหน้า Big C ราชดำริ,-,13.74783,100.54074
+1445,สะพานลอยหน้า ม.ราชภัฏวไลยอลงกรณ์ ใกล้ซอยเพชรบุรี 5 ถนนเพชรบุรี,-,สะพานลอยหน้า ม.ราชภัฏวไลยอลงกรณ์ ใกล้ซอยเพชรบุรี 5 ถนนเพชรบุรี,-,13.75455,100.52806
+1446,สะพานลอยหน้า ม.ราชภัฏวไลยอลงกรณ์ ใกล้ซอยเพชรบุรี 5 ถนนเพชรบุรี,-,รถมาจากแยกราชเทวีมุ่งหน้าไปอุรุพงษ์,-,13.75459,100.52806
+1447,แยกรัชโยธิน (ถนนพหลโยธินขาออก ข้างป้อมตำรวจ),-,แยกรัชโยธิน (ถนนพหลโยธินขาออก ข้างป้อมตำรวจ),-,13.82658,100.56802
+1451,TF2-HK-S67-04 แยกห้วยขวาง,-,รถมุ่งหน้าไปแยกพระราม 9,-,13.77861,100.57376
+1452,TF2-JJ-S65-01 แยกรัชดา-ลาดพร้าว,-,ท้ายรถมุ่งหน้าโชคชัย4,-,13.80558,100.57475
+1453,แยกมัฆวาน,-,แยกมัฆวาน,-,13.76345,100.50932
+1458,แยกนครไชยศรี,-,แยกสามเสน,-,13.77623,100.5285
+1461,ถนนพระรามที่5 ตรงข้ามซอย ร.ร. เนติศึกษา,-,ท้ายรถมุ่งหน้าแยกราชวัตร,-,13.78168,100.52357
+1464,ทางแยกมิตรสัมพันธ์,-,ทางแยกมิตรสัมพันธ์,-,13.75001,100.55408
+1467,แยกนางเลิ้ง,-,แยกนางเลิ้ง,-,13.76151,100.51532
+1469,แยกเขตดุสิต,-,แยกเขตดุสิต,-,13.77649,100.52071
+1471,แยกขัตติยานี,-,แยกขัตติยานี,-,13.77838,100.51648
+1475,แยกเศรษฐศิริ,-,แยกเศรษฐศิริ,-,13.7815,100.53052
+1477,แยกผ่านพิภพ,-,แยกผ่านพิภพ,-,13.75702,100.49529
+1478,แยกจ.ป.ร. 2,-,แยกจ.ป.ร. 2,-,13.75996,100.50736
+1489,แยกเกษะโกมล,-,แยกเกษะโกมล,-,13.78326,100.52436
+1490,แยกนครไชยศรี,-,แยกนครไชยศรี,-,13.78127,100.51917
+1497,แยกจ.ป.ร. 2,-,แยกจ.ป.ร. 2,-,13.76001,100.5077
+1505,แยกคอกวัว,-,แยกคอกวัว,-,13.75707,100.49924
+1506,แยกคอกวัว,-,แยกคอกวัว,-,13.75736,100.49906
+1508,แยกพระรูป ร.5,-,แยกลานพระรูป ร.5,-,13.76767,100.51152
+1510,แยกป้อมเผด็จ,-,แยกป้อมเผด็จ,-,13.75243,100.49363
+1511,ซอยวัดเทวราชกุญชร,-,ซอยวัดเทวราชกุญชร,-,13.77315,100.50271
+1512,ซอยวัดเทวราชกุญชร,-,ซอยวัดเทวราชกุญชร,-,13.7731,100.5027
+1514,แยกนครไชยศรี,-,แยกนครไชยศรี,-,13.77617,100.52838
+1518,แยกยมราช,-,แยกยมราช,-,13.75741,100.52063
+1526,แยกอู่ทองนอก,-,แยกอู่ทองนอก,-,13.77211,100.5093
+1530,แยกนางเลิ้ง,-,แยกนางเลิ้ง,-,13.76175,100.5155
+1531,แยกบางกระบือ,-,แยกบางกระบือ,-,13.78946,100.51473
+1533,แยกพาณิชยการ,-,แยกพาณิชยการ,-,13.76346,100.51323
+1534,แยกราชวัตร,-,แยกราชวัตร,-,13.77947,100.52232
+1535,แยกราชวัตร,-,แยกราชวัตร,-,13.77959,100.52244
+1537,แยกวชิระ,-,แยกวชิระ,-,13.78122,100.50976
+1539,แยกวชิระ,-,แยกวชิระ,-,13.78139,100.50987
+1550,แยกสี่เสาเทเวศน์,-,แยกสี่เสาเทเวศน์,-,13.77105,100.50506
+1552,แยกเกษะโกมล,-,แยกเกษะโกมล,-,13.78334,100.5244
+1554,แยกเศรษฐศิริ,-,แยกเศรษฐศิริ,-,13.78156,100.53047
+1555,แยกสวรรคโลก,-,แยกสวรรคโลก,-,13.77361,100.52724
+1556,แยกบ้านแขก,-,-,-,13.73083,100.49486
+1557,ทางแยกชิดลม,-,ทางแยกชิดลม,-,13.74403,100.54391
+1558,ทางแยกนานา,-,ทางแยกนานา,-,13.74207,100.55282
+1559,ทางแยกชิดลม,-,ทางแยกชิดลม,-,13.74404,100.54384
+1563,ทางแยกนานา,-,ทางแยกนานา,-,13.7422,100.55296
+1564,ทางแยกเพลินจิต,-,ทางแยกเพลินจิต,-,13.74326,100.5474
+1568,ทางแยกสาทร-เจริญกรุง,-,ทางแยกสาทร-เจริญกรุง,-,13.71841,100.51499
+1570,ทางแยกเพลินจิต,-,ทางแยกเพลินจิต,-,13.74335,100.54752
+1572,ทางแยกเจริญผล,-,ทางแยกเจริญผล,-,13.74741,100.52361
+1581,ทางแยกอังรีดูนังค์,-,ทางแยกอังรีดูนังค์,-,13.73799,100.5347
+1582,ทางแยกอังรีดูนังค์,-,ทางแยกอังรีดูนังค์,-,13.73109,100.53361
+1584,ทางแยกสะพานขาว,-,ทางแยกสะพานขาว,-,13.75673,100.51653
+1587,แยกอนามัย,-,แยกอนามัย,-,13.74991,100.51453
+1594,แยกอนามัย,-,แยกอนามัย,-,13.74988,100.51448
+1595,แยกอนามัย,-,แยกอนามัย,-,13.74988,13.74988
+1597,แยกประตูน้ำ,-,ท้ายรถมุ่งหน้าแยกมักกะสัน,-,13.75016,100.5413
+1601,ทางแยกมิตรสัมพันธ์,-,ทางแยกมิตรสัมพันธ์,-,13.75027,100.55458
+1602,ทางแยกราชเทวี,-,ทางแยกราชเทวี,-,13.75334,100.53177
+1603,ทางแยกราชเทวี,-,ทางแยกราชเทวี,-,13.75284,100.53165
+1604,ทางแยกราชเทวี,-,ทางแยกราชเทวี,-,13.75334,100.53177
+1607,แนวถนนรางน้ำ,-,แนวถนนรางน้ำ,-,13.76062,100.53843
+1613,แยกจ.ป.ร. 2,-,แยกจ.ป.ร. 2,-,13.75994,100.5077
+1622,แยกรัชโยธิน (เกาะกลางถนนรัชดาภิเษก),-,แยกรัชโยธิน,-,13.82699,100.56803
+1625,TF-HW-01-02-57 หน้าขนส่งสายใต้ใหม่ ฝั่งขาเข้า,-,หน้าขนส่งสายใต้ใหม่ ฝั่งขาเข้า,-,13.78214,100.41951
+1627,สะพานลอยวิภาวดีรังสิต 8 (รด.),-,รถมาจากอนุสาวรีย์ชัยสมรภูมิ,-,13.78657,100.56039
+1628,สะพานลอยวิภาวดีรังสิต 8 (รด.),-,รถมาจากแยกสุทธิสาร,-,13.78642,100.56069
+1630,แยกพหลโยธิน 2 ถนนพหลโยธินขาเข้า,-,รถมาจากแยกสะพานควาย,-,13.77566,100.54328
+1631,แยกพหลโยธิน 2 ถนนพหลโยธินขาออก,-,รถมุ่งหน้าไปแยกสะพานควาย,-,13.77562,100.54306
+1632,แยกพหลโยธิน 2 ถนนพหลโยธินขาออก,-,รถมาจากอนุสาวรีย์ชัยสมรภูมิ,-,13.77558,100.54305
+1633,สะพานลอยใกล้ปากซอยบุญอยู่ ถนนดินแดง,-,รถมาจากอนุสาวรีย์ชัยสมรภูมิ มุ่งหน้าไปแยกใต้ทางด่วนดินแดง,-,13.76338,100.54506
+1634,สะพานลอยใกล้ปากซอยบุญอยู่ ถนนดินแดง,-,รถมาจากแยกใต้ทางด่วนดินแดง มุ่งหน้าไปอนุสาวรีย์ชัยสมรภูมิ,-,13.76327,100.54511
+1635,ปากซอยเจริญกรุง 76 ถนนเจริญกรุง,-,รถมาจากแยกตรอกจันทน์,-,13.70147,100.5018
+1637,แยกผ่านพิภพ,-,แยกผ่านพิภพ,-,13.75709,100.49467
+1641,TF-DD-01 แยกดินแดง,-,แยกดินแดง,-,13.76393,100.54785
+1642,TF-JJ-01แยกลาดพร้าว,-,แยกลาดพร้าว,-,13.80852,100.55755
+1643,TF-PY-01  ร.พ.พญาไท 2,Phayathai 2 Hospital,ร.พ.พญาไท 2,Phayathai 2 Hospital,13.76983,100.54093
+1644,แยกรัชดา-ลาดพร้าว,Chankasem Intersection,หน้ารถมาจากห้าแยกลาดพร้าว,Chankasem Intersection,13.8055,100.5748
+1647,TF-SL-01 แยกพัฒนาการ,Separate development,ท้ายรถมุ่งหน้าแยกสวนหลวง,Separate development,13.73516,100.64133
+1648,TF-RW-02 แยกศรีอยุธยา,Sri Ayutthaya Intersection,แยกศรีอยุธยา,Sri Ayutthaya Intersection,13.76145,100.52594
+1649,TF-PN-02 หลักเมือง,-,หลักเมือง,-,13.75319,100.49373
+1650,TF-PN-03 ป้อมมหากาฬ,-,ป้อมมหากาฬ,-,13.75604,100.50526
+1652,TF-WL-01 แยกโชคชัย 4,,-,,13.79501,100.59322
+1654,TF-PY-03 แยกประดิพัทธ,-,แยกประดิพัทธ,-,13.79192,100.53784
+1655,TF-DD-02 แยกสุทธิสาร,-,แยกสุทธิสาร,-,13.78917,100.56197
+1656,TF-DS-06 แยกพานิช,-,แยกพานิช,-,13.76321,100.51345
+1658,TF-PT-04 แยกหัวลำโพง,-,แยกหัวลำโพง,-,13.73788,100.51629
+1659,บริเวณบนสะพานพระราม 8,-,บริเวณบนสะพานพระราม 8 (ฝั่งขาออก),-,13.76972,100.49553
+1660,บริเวณบนสะพานพระราม 8 (ฝั่งขาออก),-,บริเวณบนสะพานพระราม 8 (ฝั่งขาออก),-,13.76972,100.49555
+1662,TF-DS-05 แยกยมราช,-,แยกยมราช,-,13.75726,100.52048
+1664,แยกมไหสวรรย์,-,TF-TR-01แยกมไหสวรรย์,-,13.70462,100.48558
+1667,TF-PT-05 แยกสามย่าน,-,ท้ายรถมุ่งหน้าแยกศาลาแดง,-,13.73291,100.52897
+1668,แยกสะพานช้างโรงสี,-,แยกสะพานช้างโรงสี,-,13.75257,100.49542
+1670,TF-KT-02  สุขุมวิท 55,-,สุขุมวิท 55,-,13.72347,100.57948
+1672,TF-WT-02	คลองบางกะปิ,-,คลองบางกะปิ,-,13.74827,100.56929
+1673,ถ.พระราม 2 ตัด (หน้าบริเวณโรงพยาบาลบางมด),-,ถ.พระราม 2 ตัด (หน้าบริเวณโรงพยาบาลบางมด),-,13.67266,100.45635
+1680,แยกคลองเตย,-,-,-,13.72069,100.55771
+1681,แยกรัชพระราม,-,-,-,13.72023,100.55865
+1684,แยกวิทยุ,-,-,-,13.72644,100.54472
+1687,สถานีขนส่งเอกมัย,-,-,-,13.72004,100.58412
+1693,ถ.ร่มเกล้า ตัด มอเตอร์เวย์ แยกต่างระดับร่มเกล้า,-,ท้ายรถมุ่งหน้ารามคำแหง,-,13.73068,100.74634
+1696,ถ.วิภาวดีรังสิต (บริเวณหน้า สนง.จตุจักร),-,หน้าปากซอยวิภาวดี36 สำนักงานเขตจตุจักร,-,13.82924,100.55821
+1707,ทางแยกสามย่าน,-,ทางแยกสามย่าน,-,13.73284,100.52914
+1708,ทางแยกสามย่าน,-,ทางแยกสามย่าน,-,13.73281,100.52862
+1721,แยกคลองตัน,-,-,-,13.74083,100.60076
+1730,แยกรัชพระราม,-,-,-,13.72015,100.55884
+1736,แยกอรุณอมรินทร์,-,-,-,13.76883,100.48581
+1737,แยกอรุณอมรินทร์,-,-,-,13.7684,100.48571
+1748,แยกสาทร-นราธิวาส(ใกล้อาคารบางกอกซิตี้ ทาวเวอร์),-,-,-,13.72187,100.53065
+1749,แยกสาทร-นราธิวาส(ใกล้อาคารเอ็มไพร์ ทาวเวอร์),-,-,-,13.72166,100.52998
+1750,TF1-HK-05 ถ.ประชาอุทิศ ตัด ถ.เทียนร่วมมิตร (แยกเหม่งจ๋าย),-,แยกประชาอุทิศ(แยกเหม่งจ๋าย),-,13.77,100.58628
+1751,ถ.ลำลูกกา ตัด ถ.พหลโยธิน,-,-,-,13.95072,100.62216
+1755,ทางแยกปทุมวัน,Pathum Wan Intersection,ทางแยกปทุมวัน,Pathum Wan Intersection,13.74615,100.53075
+1757,แยกเฉลิมไทย,"Chalermthai Intersection, Ratchadamnoen Road",แยกเฉลิมไทย,"Chalermthai Intersection, Ratchadamnoen Road",13.75619,100.50491
+1759,แยกนครไชยศรี,-,แยกนครไชยศรี,-,13.77613,100.52845
+1766,สะพานลอยใกล้ซอยรัชดาภิเษก21,-,รถมาจากแยกท่าพระ,-,13.72882,100.4745
+1767,สะพานลอยใกล้ซอยรัชดาภิเษก21,-,รถมาจากแยกท่าพระ มุ่งหน้าแยกรัชดา,-,13.73002,100.47387
+1768,แยกผ่านพิภพ,-,แยกผ่านพิภพ,-,13.75739,100.49493
+1774,แยกบางนา,-,หน้ารถมาจากแยกอุดมสุข,-,13.67371,100.60714
+1775,อุโมงค์ทางลอดพระราม 9,-,รถมุ่งหน้ารามคำแหง,-,13.74196,100.61592
+1780,ถนนข้าวสาร 1,-,ถนนข้าวสาร 1,-,13.7597,100.49562
+1781,ถนนข้าวสาร 2,-,ถนนข้าวสาร 2,-,13.75861,100.49788
+1786,TF-DD-03 ประชาสงเคราะห์,-,ประชาสงเคราะห์,-,13.76055,100.55497
+1787,TF-RW-03 อโศก-เพชร,-,อโศก-เพชร,-,13.74904,100.56352
+1790,ทางแยกพระราม 9,-,ทางแยกพระราม 9,-,13.75588,100.56504
+1793,สะพานลอยใกล้บิ๊กซีรัชดา ถนนรัชดาภิเษก,-,รถมาจากแยกพระราม 9 มุ่งหน้าไปแยกเทียมร่วมมิตร,-,13.76784,100.57146
+1795,ทางแยกพงษ์พระราม,-,ทางแยกพงษ์พระราม,-,13.74789,100.52087
+1796,แยกรัชพระราม,-,แยกรัชพระราม,-,13.72012,100.55883
+1797,แยกรัชพระราม,-,แยกรัชพระราม,-,13.72038,100.55924
+1799,ทางด่วนยกระดับฝั่งปิ่นเกล้า ขาเข้า,-,โค้งซ้ายไปสะพระราม8 เลนตรงมุ่งหน้าแยกผ่านพิภพลีลา,-,13.76993,100.48476
+1805,แยกใต้ด่วนดินแดง,Vibhavadi Rangsit Road,ท้ายรถมุ่งหน้าแยกสุทธิสาร,Vibhavadi Rangsit Road,13.76395,100.54795
+1806,แยกห้วยขวาง,Huai Khwang Intersection,ท้ายรถมุ่งหน้าแยกรัชดาลาดพร้าว,Huai Khwang Intersection,13.77844,100.57354
+1807,สะพานลอยปากซอยรัชดาภิเษก30,Ratchadaphisek 30,ท้ายรถมุ่งหน้าแยกรัชดาลาดพร้าว หน้ารถไปรัชโยธิน,Ratchadaphisek 30,13.81007,100.57526
+1808,แยกรัชดา-สุทธิสาร,Ratchada-Sutthisan,ท้ายรถมุ่งหน้าแยกสุทธิสาร-วิภาวดีรังสิต,Ratchada-Sutthisan,13.7898,100.5737
+1809,แยกห้วยขวาง,Huai Khwang Intersection,ท้ายรถมุ่งหน้าแยกพระราม9,Huai Khwang Intersection,13.77826,100.57353
+1810,ถ.พระราม 9 ตัด ถ.ประดิษฐ์มนูญธรรม,Pradit Manutham Road,ท้ายรถมุ่งหน้าถนนลาดพร้าว,Pradit Manutham Road,13.7523,100.59349
+1811,ปากซอยพัฒนาการ 57,On Nut Road,หน้ารถมาจากถนนศรีนครินทร์,On Nut Road,13.73471,100.64452
+1812,บึงมักกะสัน แนวถนนจตุรทิศ,Makkasan Swamp,ท้ายรถมุ่งหน้ารามคำแหง ศรีนครินทร์,Makkasan Swamp,13.7567,100.5485
+1814,สาทรซอย 3 (สวนพลู),Sathorn Soi 3 (Suan Plu),ท้ายรถมุ่งหน้าถนนสาทรใต้,The rear of the vehicle is heading towards Sathorn South Road.,13.72289,100.53685
 1815,แยกพระราม 9,Rama 9 Intersection,หน้ารถมาจากแยกผังเมือง,The front of the car is coming from the city planning intersection.,13.75599,100.56481
+1817,ท่าเรืออโศก,Asoke Pier,ท้ายรถมุ่งหน้าแยกอโศก,Asoke Pier,13.74817,100.56319
+2809,ปิดการจราจร ฝั่งขาออก ถนนเพชรบุรี,หลีกเลี่ยงเส้นทางฝั่งขาออก ถนนเพชรบุรี  ปิดสะพานข้ามแยกราชเทวี   โครงการรถไฟฟ้าสายสีส้มช่วงบางขุนนนท์ - ศูนย์วัฒนธรรมแห่งประเทศไทย ได้ประกาศแจ้งเตือน การปิดสะพานข้ามแยกราชเทวี โดยระบุข้อความว่า ในวันศุกร์ที่ 17 มกราคม 2568 ตั้งแต่เวลา 22.00 น. เป็นต้นไป ตลอด 24 ชม. จนถึงวันที่ 30 เมษายน 2571 โดยในระหว่างปิดเบี่ยงจราจร ผู้ใช้เส้นทางสามารถสัญจรได้เฉพาะทางราบบนถนนเพชรบุรี ฝั่งขาเข้าและขาออก ได้ฝั่งละ 2 ช่องจราจร ดังนั้น เพื่อเป็นการลดผลกระทบด้านการจราจรในระหว่างการปิดสะพาน รฟม. จึงขอประชาสัมพันธ์เส้นทางเลี่ยง เพื่อหลีกเลี่ยงพื้นที่ก่อสร้างดังกล่าว โดยมีรายละเอียดดังนี้1. เส้นทางพิเศษศรีรัช ด่านยมราช กรณีผู้ใช้เส้นทางเดินทางจากถนนนครสวรรค์ ต้องการเดินทางไปยังฝั่งตะวันออกของกรุงเทพ ให้เลี้ยวขวาบริเวณแยกนางเลิ้ง เข้าสู่ถนนพิษณุโลก จากนั้นเลี้ยวซ้ายบริเวณแยกยมราช เพื่อใช้ทางพิเศษศรีรัช ด่านยมราช ลงถนนพระราม 9 เลี้ยวขวาเข้าถนนเพชรอุทัย และเลี้ยวซ้ายเข้าถนนเพชรบุรี เพื่อเดินทางไปยังฝั่งตะวันออกของกรุงเทพฯ 2. เส้นทางถนนศรีอยุธยา กรณีผู้ใช้เส้นทางเดินทางจากถนนนครสวรรค์ ต้องการเดินทางไปยังฝั่งตะวันออกของกรุงเทพ ให้เลี้ยวขวาบริเวณแยกนางเลิ้ง เข้าสู่ถนนพิษณุโลก จากนั้นเลี้ยวซ้ายบริเวณแยกอุรุพงษ์ เข้าสู่ถนนพระรามที่ 6 จากนั้นเลี้ยวขวาบริเวณแยกศรีอยุธยา เข้าสู่ถนนศรีอยุธยา ต่อเนื่องถนนจตุรทิศ และถนนพระราม 9 เลี้ยวขวาที่แยก พระราม 9 - ประดิษฐ์มนูธรรม เพื่อเดินทางไปยังฝั่งตะวันออกของกรุงเทพฯ 3. เส้นทางถนนราชดำเนินนอก กรณีผู้ใช้เส้นทางเดินทางจากถนนราชดำเนินนอก ให้เลี้ยวขวาบริเวณหน้าลานพระบรมรูปทรงม้า เข้าสู่ถนนศรีอยุธยา จากนั้นเลี้ยวซ้ายบริเวณแยกวัดเบญจฯ เข้าสู่ถนนพระรามที่ 5 จากนั้นเลี้ยวขวาบริเวณแยกราชวิถี เข้าสู่ถนนราชวิถี ผ่านอนุสาวรีย์ชัยสมรภูมิ ต่อเนื่องถนนดินแดง และถนนพระราม 9 เลี้ยวขวาที่แยก พระราม 9 - ประดิษฐ์มนูธรรม เพื่อเดินทางไปยังฝั่งตะวันออกของกรุงเทพฯ,17/1/2568,~/images/IMG_public/18012025224103906_ถนนปิด.jpg,13.75324,100.53182
+2815,เบี่ยงจราจร ถนนดินแดง,รฟม.แจ้งปิดเบี่ยงการจราจรถนนดินแดง บริเวณแยกสามเหลี่ยมดินแดง ถึง ซอยบุญชูศรี เพื่อดำเนินงานเสริมความแข็งแรงฐานรากสะพานข้ามแยกสามเหลี่ยมดินแดง (Underpin) โครงการรถไฟฟ้าสายสีส้ม ช่วงบางขุนนนท์ - ศูนย์วัฒนธรรมฯ วันที่ 7 พ.ค.69 เวลา 22.00 น. – 20 ธ.ค.69 เวลา 24.00 น. (ตลอด 24ชม.),4/5/2569,~/images/IMG_public/04052569110902113_1015895.jfif,13.76331,100.54468
+2822,รายงานสถานการณ์ประจำวันที่ 27 พฤศิจกายน 2569,รายงานสถานการณ์ประจำวันที่ 27 พฤศจิกายน 2569 ลักษณะอากาศทั่วไป : พยากรณ์อากาศ 24 ชั่วโมงข้างหน้า ภาคใต้ยังคงมีฝนตกหนักบางแห่ง ขอให้ประชาชนระวังอันตรายจากฝนตกหนักและฝนที่ตกสะสม ซึ่งอาจทำให้เกิดน้ำท่วมฉับพลันและน้ำป่าไหลหลาก โดยเฉพาะพื้นที่ลาดเชิงเขาใกล้ทางน้ำไหลผ่านและพื้นที่ลุ่ม เนื่องจากมรสุมตะวันออกเฉียงเหนือกำลังปานกลางพัดปกคลุมอ่าวไทย ภาคใต้ และทะเลอันดามัน สำหรับคลื่นลมบริเวณอ่าวไทยตอนล่าง มีคลื่นสูงประมาณ 2 เมตร บริเวณที่มีฝนฟ้าคะนองมีคลื่นสูงมากกว่า 2 เมตร ชาวเรือบริเวณอ่าวไทยและทะเลอันดามัน ควรตรวจสอบเส้นทางและเดินเรือด้วยความระมัดระวัง รวมทั้งหลีกเลี่ยงการเดินเรือในบริเวณที่มีฝนฟ้าคะนอง กรุงเทพมหานครและปริมณฑล : เมฆบางส่วน กับมีลมแรง และอุณหภูมิจะลดลง 1-2 องศาเซลเซียส อุณหภูมิต่ำสุด 24-26 องศาเซลเซียส อุณหภูมิสูงสุด 33-35 องศาเซลเซียส  ลมตะวันออกเฉียงเหนือ ความเร็ว 10-25 กม./ชม.,27/11/2569,~/images/IMG_public/25112569192201907_2.jpg,13.76924,100.55466
+2826,แจ้งปิดสะพานยกระดับบนถนนราชพฤกษ์ตัดถนนกัลปพฤกษ์,26/11/2569 กรมทางหลวงชนบท (ทช.) โดยสำนักบำรุงทาง ขอแจ้งปิดสะพานยกระดับบริเวณถนนราชพฤกษ์ตัดถนนกัลปพฤกษ์ (สวนเลียบ) ฝั่งขาออก เพื่อดำเนินการตรวจสอบความมั่นคงแข็งแรงของสะพาน และหากพบจุดที่ต้องดำเนินการปรับปรุงจะเร่งดำเนินการโดยเร็วต่อไป เพื่อความปลอดภัยของผู้ใช้ทาง โดย ทช. จะทำการปิดสะพานดังกล่าว ตั้งแต่วันที่ 25 พฤศจิกายน 2569 เป็นต้นไป ทั้งนี้ หากกลับมาเปิดใช้บริการแล้ว จะทำการประชาสัมพันธ์แจ้งให้ประชาชนได้รับทราบอีกครั้ง .  ทช. ขอความร่วมมือให้ประชาชนโปรดหลีกเลี่ยงเส้นทางดังกล่าว และสังเกตป้ายจราจร รวมถึงปฏิบัติตามป้ายเตือน ป้ายแนะนำอย่างเคร่งครัด เพื่อความสะดวกปลอดภัยในการเดินทางและขออภัยในความไม่สะดวก ณ โอกาสนี้,27/11/2569,~/images/IMG_public/26112569101757379_messageImage_1795662714423.jpg,13.71466,100.46373
+2827,แจ้งปรับการจราจรเป็นเดินรถทางเดียว รองรับกิจกรรม ถนนคนเดินกระตุ้นเศรษฐกิจ เขตทวีวัฒนา,เขตทวีวัฒนา แจ้งปรับการจราจรเป็นเดินรถทางเดียว รองรับกิจกรรม “ถนนคนเดินกระตุ้นเศรษฐกิจ เขตทวีวัฒนา ระหว่างวันที่ 28 พฤศจิกายน – 12 ธันวาคม 2569 ขอประชาสัมพันธ์ประชาชนผู้ใช้รถใช้ถนน โปรดวางแผนการเดินทางและปฏิบัติตามป้ายจราจร เนื่องจากมีการจัดการจราจรเป็น เดินรถทางเดียว ตั้งแต่ปากซอยอุทยาน ซอย 5 ถึงศูนย์บริการสาธารณสุข 67 สำนักงานเขตทวีวัฒนา ทั้งนี้ ขอความร่วมมือผู้ใช้เส้นทางขับขี่ด้วยความระมัดระวัง และปฏิบัติตามสัญญาณจราจร เพื่อความปลอดภัยและความสะดวกในการเดินทางของทุกท่าน,27/11/2569,~/images/IMG_public/27112569141944745_dissepp.JPG,13.77552,100.35265
+148723,ปิดการจราจร ถนนเพชรบุรี ฝั่งขาออก,หลีกเลี่ยงเส้นทางฝั่งขาออก ถนนเพชรบุรี  ปิดสะพานข้ามแยกราชเทวี   โครงการรถไฟฟ้าสายสีส้มช่วงบางขุนนนท์ - ศูนย์วัฒนธรรมแห่งประเทศไทย ได้ประกาศแจ้งเตือน การปิดสะพานข้ามแยกราชเทวี โดยระบุข้อความว่า ในวันศุกร์ที่ 17 มกราคม 2568 ตั้งแต่เวลา 22.00 น. เป็นต้นไป ตลอด 24 ชม. จนถึงวันที่ 30 เมษายน 2571 โดยในระหว่างปิดเบี่ยงจราจร ผู้ใช้เส้นทางสามารถสัญจรได้เฉพาะทางราบบนถนนเพชรบุรี ฝั่งขาเข้าและขาออก ได้ฝั่งละ 2 ช่องจราจร ดังนั้น เพื่อเป็นการลดผลกระทบด้านการจราจรในระหว่างการปิดสะพาน รฟม. จึงขอประชาสัมพันธ์เส้นทางเลี่ยง เพื่อหลีกเลี่ยงพื้นที่ก่อสร้างดังกล่าว โดยมีรายละเอียดดังนี้1. เส้นทางพิเศษศรีรัช ด่านยมราช กรณีผู้ใช้เส้นทางเดินทางจากถนนนครสวรรค์ ต้องการเดินทางไปยังฝั่งตะวันออกของกรุงเทพ ให้เลี้ยวขวาบริเวณแยกนางเลิ้ง เข้าสู่ถนนพิษณุโลก จากนั้นเลี้ยวซ้ายบริเวณแยกยมราช เพื่อใช้ทางพิเศษศรีรัช ด่านยมราช ลงถนนพระราม 9 เลี้ยวขวาเข้าถนนเพชรอุทัย และเลี้ยวซ้ายเข้าถนนเพชรบุรี เพื่อเดินทางไปยังฝั่งตะวันออกของกรุงเทพฯ 2. เส้นทางถนนศรีอยุธยา กรณีผู้ใช้เส้นทางเดินทางจากถนนนครสวรรค์ ต้องการเดินทางไปยังฝั่งตะวันออกของกรุงเทพ ให้เลี้ยวขวาบริเวณแยกนางเลิ้ง เข้าสู่ถนนพิษณุโลก จากนั้นเลี้ยวซ้ายบริเวณแยกอุรุพงษ์ เข้าสู่ถนนพระรามที่ 6 จากนั้นเลี้ยวขวาบริเวณแยกศรีอยุธยา เข้าสู่ถนนศรีอยุธยา ต่อเนื่องถนนจตุรทิศ และถนนพระราม 9 เลี้ยวขวาที่แยก พระราม 9 - ประดิษฐ์มนูธรรม เพื่อเดินทางไปยังฝั่งตะวันออกของกรุงเทพฯ 3. เส้นทางถนนราชดำเนินนอก กรณีผู้ใช้เส้นทางเดินทางจากถนนราชดำเนินนอก ให้เลี้ยวขวาบริเวณหน้าลานพระบรมรูปทรงม้า เข้าสู่ถนนศรีอยุธยา จากนั้นเลี้ยวซ้ายบริเวณแยกวัดเบญจฯ เข้าสู่ถนนพระรามที่ 5 จากนั้นเลี้ยวขวาบริเวณแยกราชวิถี เข้าสู่ถนนราชวิถี ผ่านอนุสาวรีย์ชัยสมรภูมิ ต่อเนื่องถนนดินแดง และถนนพระราม 9 เลี้ยวขวาที่แยก พระราม 9 - ประดิษฐ์มนูธรรม เพื่อเดินทางไปยังฝั่งตะวันออกของกรุงเทพฯ,17/1/2568,~/images/IMG_Event/18012025224144487_ถนนปิด.jpg,13.75326,100.53177
+150506,คืบหน้าเพลิงไหม้ ซอยนวมินทร์ 72,"27/11/2569 07.31 น. คืบหน้าเหตุเพลิงไหม้ภายในตลาดปัฐวิกรณ์ ซอยนวมินทร์ 72 ถนนนวมินทร์ แขวงคลองกุ่ม เขตบึงกุ่ม ลักษณะที่เกิดเหตุเป็นเต็นท์ขายของประเภทเสื้อผ้า เพลิงลุกไหม้เต็มพื้นที่ เจ้าหน้าที่สถานีดับเพลิงและกู้ภัยหัวหมาก,บางกะปิ,ลาดพร้าว,บางเขน สนับสนุนที่เกิดเหตุ ขณะนี้เพลิงสงบ รายละเอียดเพิ่มเติมอยู่ระหว่างการตรวจสอบ",27/11/2569,~/images/IMG_Event/27112569073840761_1062178.jfif,13.81378,100.65322
+150507,รถเสีย ถนนบรมราชชนนี ขาออก,27/11/2569 08.17 น. ถนนบรมราชชนนี ขาออก บนสะพานข้ามทางรถไฟตลิ่งชัน รถประจำทางจอดเสีย กีดขวางการจราจร รถชะลอตัว,27/11/2569,~/images/IMG_Event/27112569082058146_รถเสีย2.png,13.78182,100.4494
+150508,เพลิงไหม้ ซอยรามคำแหง 52/2 (ซอยสินเศรษฐี),27/11/2569 09.10 เหตุเพลิงไหม้บ้านเรือนประชาชน (ที่สงบแล้ว) ซอยรามคำแหง 52/2 เจ้าหน้าที่สถานีดับเพลิงและกู้ภัยหัวหมาก ถึงที่เกิดเหตุ อยู่ระหว่างเข้าพื้นที่ตรวจสอบที่เกิดเหตุ,27/11/2569,~/images/IMG_Event/27112569095757844_ไฟไหม้.jpg,13.76233,100.64413
+150509,อุบัติเหตุ ถนนสุขาภิบาล 5 ขาออก,27/11/2569 09.35 ถนนสุขาภิบาล 5 ขาออก จากถ.เพิ่มสิน มุ่งหน้า ถ.สายไหม บริเวณปากซ.สุขาภิบาล 5 ซอย 73 เก๋งกับจยย.ชนกัน กีดขวางช่องทางซ้าย การจราจรเคลื่อนตัวช้า,27/11/2569,~/images/IMG_Event/27112569095847650_รถชน-1.jpg,13.8635,100.6321
+150510,เพลิงไหม้ ซอยราษฎร์พัฒนา 15,27/11/2569 11.22 เหตุเพลิงไหม้ภายในอาคาร ซอยราษฎร์พัฒนา 15 ถนนราษฎร์พัฒนา เขตสะพานสูง ลักษณะที่เกิดเหตุเป็นอาคารพาณิชย์ 4 ชั้น ขณะนี้แสงเพลิงเต็มพื้นที่ เจ้าหน้าที่วางหัวฉีดจำนวน 3 หัวฉีด เพื่อสกัดกั้นแสงเพลิง,27/11/2569,,13.76857,100.70484
+150511,อุบัติเหตุ ถนนพระราม 4 ขาเข้า,27/11/2569 11.42 ถนนพระราม 4 ขาเข้า จากสามแยกคลองเตย มุ่งหน้า แยกใต้ทางด่วนพระราม 4 บริเวณหน้าการไฟฟ้านครหลวง สำนักงานใหญ่ รถแท็กซี่กับรถจยย.ชนกัน กีดขวางช่องทางขวา การจราจรเคลื่อนตัวช้า,27/11/2569,,13.72187,100.55533
+150512,อุบัติเหตุ ถนนรัชดาภิเษก ขาออก,27/11/2569 11.56 ถนนรัชดาภิเษก ขาออก บน `ต่างระดับรัชวิภา` มีอุบัติเหตุ (รถนั่งส่วนบุคคล ชนกัน) กีดขวางการจราจร รถติด,27/11/2569,,13.83099,100.55744
+150513,รถเสีย ถนนงามวงศ์วาน ขาเข้า,27/11/2569 12.41 ถนนงามวงศ์วาน ขาเข้า บน `สะพานข้ามแยกบางเขน` มี (รถแท็กซี่ จอดเสีย) กีดขวางการจราจร เลนซ้าย,27/11/2569,~/images/IMG_Event/27112569161122163_รถชน-1.jpg,13.84753,100.56223
+150514,อุบัติเหตุ ถนนลาดพร้าว ขาเข้า,27/11/2569 12.58 ถนนลาดพร้าว ขาเข้า หน้า `เดอะ รูม` มีอุบัติเหตุ (รถนั่งส่วนบุคคล ชนกัน) กีดขวางการจราจร เลนซ้าย,27/11/2569,~/images/IMG_Event/27112569161113307_รถชน-1.jpg,13.80457,100.57634
+150515,อุบัติเหตุ ถนนวงศ์สว่าง ขาออก,27/11/2569 13.31 ถนนวงศ์สว่าง ขาออก เชิงทางลง `สะพานข้ามแยกวงศ์สว่าง` มีอุบัติเหตุ (จยย.เสียหลักล้ม) กีดขวางการจราจร เลนขวา,27/11/2569,~/images/IMG_Event/27112569160559399_รถชน-1.jpg,13.82659,100.52682
+150516,รถเสีย ถนนงามวงศ์วาน ขาเข้า,27/11/2569 13.36 ถนนงามวงศ์วาน ขาเข้า ภายใน `อุโมงค์เกษตร` มี (รถนั่งส่วนบุคคล จอดเสีย) กีดขวางการจราจร เลนซ้าย,27/11/2569,~/images/IMG_Event/27112569160641893_รถเสีย2.png,13.84034,100.5757
+150517,คืบหน้าอุบัติเหตุ ถนนลาดพร้าว ขาเข้า,27/11/2569 14.01 ถนนลาดพร้าว ขาเข้า หน้า `เดอะ รูม` ก่อนหน้านี้ มีอุบัติเหตุ (รถนั่งส่วนบุคคล ชนกัน) ล่าสุด จนท.เคลื่อนย้ายพ้นกีดขวางแล้ว,27/11/2569,~/images/IMG_Event/27112569160728483_รถชน-1.jpg,13.80488,100.576
+150518,คืบหน้าอุบัติเหตุ ถนนวงศ์สว่าง ขาออก,27/11/2569 14.15 ถนนวงศ์สว่าง ขาออก เชิงทางลง `สะพานข้ามแยกวงศ์สว่าง` ก่อนหน้านี้ มีอุบัติเหตุ (จยย.เสียหลักล้ม) ล่าสุด จนท.เคลื่อนย้ายพ้นกีดขวางแล้ว,27/11/2569,~/images/IMG_Event/27112569160813477_รถชน-1.jpg,13.82654,100.52664
+150519,เพลิงไหม้ ซอยอ่อนนุช 70/1 (ซอยสุเหร่าศาลาลอย),27/11/2569 15.04 เพลิงไหม้บ้านเรือนประชาชน ซอยอ่อนนุช 70/1 เจ้าหน้าที่สถานีดับเพลิงและกู้ภัยประเวศ ถึงที่เกิดเหตุ ลักษณะที่เกิดเหตุเป็นทาวน์โฮม 3 ชั้น มีแสงเพลิงและกลุ่มควัน ชั้นที่ 3 เจ้าหน้าที่อยู่ระหว่างใช้น้ำทำการดับ,27/11/2569,~/images/IMG_Event/27112569160854070_ไฟไหม้.jpg,13.71413,100.65635
+150520,อุบัติเหตุ ถนนสายไหม ขาออก,27/11/2569 15.06 ถนนสายไหม ขาออก ตรงข้าม `ซอยสายไหม 36` มีอุบัติเหตุ (จยย.ชนกับ รถกระบะ) มีผู้ได้รับบาดเจ็บ 1 ราย,27/11/2569,~/images/IMG_Event/27112569160936275_รถชน-1.jpg,13.9219,100.64744
+150521,อุบัติเหตุ ถนนกาญจนาภิเษก (วงแหวนตะวันตก) ขาออก,27/11/2569 15.22 ถนนกาญจนาภิเษก (วงแหวนตะวันตก) ขาออก ก่อนถึง `ต่างระดับฉิมพลี` มีอุบัติเหตุ (รถชนกัน 5 คัน) กีดขวางการจราจร เลนขวา ในช่องทางด่วน,27/11/2569,~/images/IMG_Event/27112569161017651_รถชน-1.jpg,13.77849,100.4086
+150522,อุบัติเหตุ ถนนรัตนาธิเบศร์ ขาเข้า,27/11/2569 15.30 ถนนรัตนาธิเบศร์ ขาเข้า ก่อนถึง `แยกแคราย` มีอุบัติเหตุ (รถนั่งส่วนบุคคล ชนกัน) กีดขวางการจราจร เลนซ้าย,27/11/2569,~/images/IMG_Event/27112569161102545_รถชน-1.jpg,13.85954,100.51956
+150523,คืบหน้าอุบัติเหตุ ถนนสายไหม ขาออก,27/11/2569 16.54 ถนนสายไหม ขาออก ตรงข้าม `ซอยสายไหม 36` ก่อนหน้านี้ มีอุบัติเหตุ (จยย.ชนกับ รถกระบะ) ล่าสุด จนท.เคลื่อนย้ายพ้นกีดขวางแล้ว,27/11/2569,~/images/IMG_Event/27112569175419034_รถชน-1.jpg,13.76529,100.60961
+150524,คืบหน้าอุบัติเหตุ ถนนกาญจนาภิเษก (วงแหวนตะวันตก) ขาออก,27/11/2569 16.55 ถนนกาญจนาภิเษก (วงแหวนตะวันตก) ขาออก ก่อนถึง `ต่างระดับฉิมพลี` ก่อนหน้านี้ มีอุบัติเหตุ (รถชนกัน 5 คัน) ล่าสุด จนท.เคลื่อนย้ายพ้นกีดขวางแล้ว,27/11/2569,~/images/IMG_Event/27112569175448859_รถชน-1.jpg,13.72956,100.55291
+150525,เพลิงไหม้ ซอยเพชรเกษม 56 (ซอย สวัสดี),27/11/2569 17.19 เพลิงไหม้บ้านเรือนประชาชน ซอยเพชรเกษม 56 เจ้าหน้าที่สถานีดับเพลิงและกู้ภัยบางแค ถึงที่เกิดเหตุ ลักษณะที่เกิดเหตุเป็นเป็นบ้านไม้ปลูกติดกันหลายหลัง เพลิงกำลังลุกไหม้ เบื้องต้นเสียหายไปแล้ว จำนวน 1หลังคาเรือน เจ้าหน้าที่อยู่ระหว่างใช้น้ำทำการดับ,27/11/2569,~/images/IMG_Event/27112569175813290_ไฟไหม้.jpg,13.75143,100.49257
+150526,อุบัติเหตุ ปากซอยคู้บอน 6,27/11/2569 17.20 ปากซอยคู้บอน 6 มีอุบัติเหตุ (รถชนกัน หลายคัน) กีดขวางการจราจร,27/11/2569,~/images/IMG_Event/27112569175856330_รถชน-1.jpg,13.8427,100.66276
+150527,เพลิงไหม้ ซอยเลียบคลองสอง 24 (ซอยหมู่บ้าน เค.ซี.),27/11/2569 17.45 เพลิงไหม้ กองขยะ ซอยเลียบคลองสอง 24 ถนนเลียบคลองสอง แขวงบางชัน เขตคลองสามวา เจ้าหน้าที่สถานีดับเพลิงและกู้ภัยบางชัน กำลังไปที่เกิดเหตุ,27/11/2569,~/images/IMG_Event/27112569175935798_ไฟไหม้.jpg,13.85572,100.71215
+150528,คืบหน้าเพลิงไหม้ ซอยเพชรเกษม 56 (ซอย สวัสดี),27/11/2569 17.50 เพลิงไหม้บ้านเรือนประชาชน ซอยเพชรเกษม 56 ขณะนี้เพลิงสงบ รายละเอียดเพิ่มเติมอยู่ระหว่างการตรวจสอบ,27/11/2569,~/images/IMG_Event/27112569180007371_ไฟไหม้.jpg,13.7144,100.43339
+150529,คืบหน้าเพลิงไหม้ ซอยเเลียบคลองสอง 24 (ซอยหมู่บ้าน เค.ซี.),27/11/2569 18.38 เหตุเพลิงไหม้กองขยะ ซอยเลียบคลองสอง 24 ถนนเลียบคลองสอง แขวงบางชัน เขตคลองสามวา เจ้าหน้าที่สถานีดับเพลิงและกู้ภัยบางชัน ขณะนี้เพลิงสงบ,27/11/2569,~/images/IMG_Event/27112569192005834_ไฟไหม้.jpg,13.85629,100.71207
+150530,รถเสีย ถนนงามวงศ์วาน ขาออก,27/11/2569 18.42 ถนนงามวงศ์วาน ขาออก บริเวณเชิงทางขึ้นสะพานข้ามแยกบางเขน รถเก๋งจอดเสีย กีดขวางช่องทางซ้าย การจราจรติดขัด,27/11/2569,~/images/IMG_Event/27112569192033047_รถเสีย2.png,13.84704,100.56302
+150531,เพลิงไหม้ ซอยบรมราชชนนี 63 (ซอยวัดวังทอง),27/11/2569 19.49 เพลิงไหม้บ้านเรือนประชาชน ซอยบรมราชชนนี 63 ถนนบรมราชชนนี แขวงฉิมพลี เขตตลิ่งชัน เจ้าหน้าที่สถานีดับเพลิงและกู้ภัยบางขุนนนท์ กำลังไปที่เกิดเหตุ,27/11/2569,~/images/IMG_Event/27112569200558622_ไฟไหม้.jpg,13.77934,100.44217
+150532,รถเสีย ถนนราชพฤกษ์,27/11/2569 19.52 ถนนราชพฤกษ์ ขาออก บริเวณก่อนลงอุโมงค์บางขุนกอง เล็กน้อย รถยนต์ระบบเพลาล็อค ล่าสุดจนท.เคลื่อนย้ายแล้ว อยู่ระหว่างเร่งระบายรถ,27/11/2569,~/images/IMG_Event/27112569200627977_รถเสีย2.png,13.82135,100.44875

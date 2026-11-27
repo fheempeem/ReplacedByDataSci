@@ -73,7 +73,7 @@ def parse_bma(html: str) -> dict[str, dict]:
 def load_reference() -> dict[str, dict]:
     if not REFERENCE_CSV.exists():
         return {}
-    with open(REFERENCE_CSV, encoding="utf-8", newline="") as f:
+    with open(REFERENCE_CSV, encoding="utf-8-sig", newline="") as f:
         return {
             r["camera_id"]: {"code": r["code"], "name_en": r["name_en"], "name_th": r["name_th"],
                              "direction": r["direction"], "lat": float(r["lat"]), "lng": float(r["lng"])}
