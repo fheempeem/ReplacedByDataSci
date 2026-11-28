@@ -36,6 +36,7 @@ BBOX = (13.45, 14.05, 100.30, 100.95)  # lat_min, lat_max, lon_min, lon_max
 TABLE = ("bronze", "camera_locations")
 RAW_SCRAPE = ROOT / "data" / "raw_scrape"
 REFERENCE_CSV = ROOT / "reference" / "bma_camera_coordinates.csv"
+MANUAL_CSV = ROOT / "reference" / "manual_camera_coordinates.csv"  # coordinates picked by hand on a map (camera_id, lat, lng)
 BMA_FETCHES = 3
 BMA_FETCH_GAP_S = 2
 
@@ -82,9 +83,16 @@ def load_reference() -> dict[str, dict]:
         }
 
 
+def load_manual() -> dict[str, tuple[float, float]]:
+    if not MANUAL_CSV.exists():
+        return {}
+    with open(MANUAL_CSV, encoding="utf-8-sig", newline="") as f:
+        return {r["camera_id"]: (float(r["lat"]), float(r["lng"])) for r in csv.DictReader(f)}
+
+
 def save_reference(rows: dict[str, dict]) -> None:
     REFERENCE_CSV.parent.mkdir(parents=True, exist_ok=True)
-    with open(REFERENCE_CSV, "w", encoding="utf-8", newline="") as f:
+    with open(REFERENCE_CSV, "w", encoding="utf-8-sig", newline="") as f:  # BOM so Excel shows Thai correctly
         w = csv.writer(f)
         w.writerow(REF_FIELDS)
         for cid in sorted(rows, key=int):
@@ -95,6 +103,7 @@ def save_reference(rows: dict[str, dict]) -> None:
 def fetch_bma() -> tuple[dict[str, dict], dict]:
     """Union of the reference file and several live fetches. Returns (rows, stats)."""
     rows = load_reference()
+    before = dict(rows)
     stats = {"reference_rows": len(rows), "live_fetch_sizes": []}
     RAW_SCRAPE.mkdir(parents=True, exist_ok=True)
     for i in range(BMA_FETCHES):
@@ -115,7 +124,7 @@ def fetch_bma() -> tuple[dict[str, dict], dict]:
     mine = {d for d in os.listdir(RAW_DIR) if (RAW_DIR / d).is_dir()}  # only cameras that have images in this dataset are kept
     rows = {k: v for k, v in rows.items() if k in mine}
     stats["kept_rows"] = len(rows)
-    if rows:
+    if rows and rows != before:  # do not touch the file when nothing changed (it may be open in Excel)
         save_reference(rows)
     return rows, stats
 
@@ -166,6 +175,7 @@ def run() -> dict:
     bma, stats = fetch_bma()
     print({"bma": stats}, flush=True)
     existing = {r[0]: r[1] for r in con.sql("SELECT camera_id, coord_source FROM bkk.bronze.camera_locations").fetchall()}
+    manual = load_manual()
     now = datetime.now(BKK)
     rows, upgraded = [], 0
     for cid, name in zip(cams["camera_id"], cams["camera_name"]):
@@ -173,6 +183,10 @@ def run() -> dict:
             b = bma[cid]
             rows.append((cid, b["code"], b["name_th"], b["name_en"], b["direction"], b["lat"], b["lng"], "bma", BMA_URL))
             upgraded += cid in existing
+            continue
+        if cid in manual:  # hand-picked position beats Nominatim's guess (BMA, when it lists the camera, still wins)
+            if existing.get(cid) != "manual":
+                rows.append((cid, None, name, None, None, manual[cid][0], manual[cid][1], "manual", str(MANUAL_CSV.name)))
             continue
         if cid in existing:  # already tried (resolved or not): do not ask Nominatim again on every run
             continue

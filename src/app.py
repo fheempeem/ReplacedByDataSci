@@ -399,7 +399,7 @@ with tab_dq:
     st.markdown("##### Data sources & caveats")
     src = pd.DataFrame([
         ("CCTV images", "BMA traffic platform (course dataset)", "61,319 JPEGs, 100 cameras, ~10-min cadence, 06:00–21:00"),
-        ("Camera coordinates", "bmatraffic.com page (79) + OSM Nominatim (6)", "15 cameras unresolved; excluded from maps only"),
+        ("Camera coordinates", "bmatraffic.com page (79) + OSM Nominatim (6) + picked by hand on a map (15)", "all cameras resolved; excluded from maps only"),
         ("Rain / weather", "Open-Meteo archive (reanalysis), 3×3 grid", "Hourly; ~52% of hours show ≥0.1 mm so a 1 mm threshold is used"),
         ("Wetness from images", "CLIP ViT-B/16 zero-shot on every image", "Daytime only; checked by 5 people on 150 fresh images (AUC 0.95 vs 0.69 for Open-Meteo rain), unusable after dusk"),
         ("PM2.5", "Open-Meteo air quality (CAMS model)", "Modelled on a ~40 km grid (≈4 distinct values over the city), not station readings; Air4Thai has no data for these dates"),
